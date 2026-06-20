@@ -1,0 +1,2001 @@
+Student_ID,Skill_Name,Skill_Score,Assessment_Score,Course_Completion_Percentage,Learning_Hours,Assignment_Completion_Rate,Login_Frequency,Skill_Category,Proficiency_Level
+S001,Data Analysis,83,83,65,170,96,5,Analytics,Advanced
+S001,Tableau,42,48,78,160,98,29,Visualization,Beginner
+S001,Computer Vision,53,90,57,63,83,27,AI,Intermediate
+S001,Cloud Computing,86,63,51,22,91,12,Cloud,Advanced
+S001,Statistics,92,97,75,95,81,17,Analytics,Advanced
+S001,NLP,60,71,77,183,66,26,AI,Intermediate
+S001,Excel,92,93,100,24,100,23,Visualization,Advanced
+S001,SQL,69,80,91,142,67,25,Database,Intermediate
+S001,Linux,89,42,78,62,68,17,Tools,Advanced
+S001,Machine Learning,93,80,97,67,91,15,AI,Advanced
+S002,Python,49,80,78,166,95,3,Programming,Beginner
+S002,Statistics,98,60,82,35,74,5,Analytics,Advanced
+S002,Machine Learning,54,54,54,63,77,25,AI,Intermediate
+S002,Algorithms,98,47,88,159,51,2,Programming,Advanced
+S002,Web Development,68,70,94,108,87,28,Development,Intermediate
+S002,Cloud Computing,93,96,78,122,74,21,Cloud,Advanced
+S002,NLP,90,81,84,173,76,30,AI,Advanced
+S002,Power BI,55,52,88,37,93,5,Visualization,Intermediate
+S002,Linux,55,72,77,72,65,14,Tools,Intermediate
+S002,Data Structures,99,73,68,142,80,3,Programming,Advanced
+S003,Machine Learning,59,47,57,143,92,25,AI,Intermediate
+S003,Data Analysis,57,43,74,106,95,5,Analytics,Intermediate
+S003,Python,91,88,75,32,63,25,Programming,Advanced
+S003,Power BI,53,98,99,33,81,21,Visualization,Intermediate
+S003,Cyber Security,75,92,93,143,100,15,Security,Advanced
+S003,Statistics,87,61,95,83,60,8,Analytics,Advanced
+S003,Deep Learning,75,91,81,171,50,14,AI,Advanced
+S003,Excel,96,55,91,59,87,8,Visualization,Advanced
+S003,Algorithms,41,93,57,154,91,10,Programming,Beginner
+S003,Computer Vision,91,98,89,53,64,5,AI,Advanced
+S004,Excel,99,97,70,73,67,4,Visualization,Advanced
+S004,Cyber Security,95,94,89,59,95,27,Security,Advanced
+S004,Python,48,100,95,48,71,24,Programming,Beginner
+S004,Git,84,51,57,70,90,4,Tools,Advanced
+S004,Web Development,96,99,65,80,75,6,Development,Advanced
+S004,Machine Learning,83,80,84,72,100,5,AI,Advanced
+S004,Statistics,87,48,71,64,73,13,Analytics,Advanced
+S004,C++,56,53,90,13,66,6,Programming,Intermediate
+S004,Data Analysis,54,56,92,101,57,1,Analytics,Intermediate
+S004,Algorithms,85,66,97,140,93,21,Programming,Advanced
+S005,Tableau,88,94,97,85,64,16,Visualization,Advanced
+S005,Data Analysis,55,82,63,94,64,22,Analytics,Intermediate
+S005,Git,77,86,81,187,50,4,Tools,Advanced
+S005,Power BI,71,94,58,186,77,23,Visualization,Intermediate
+S005,Python,58,96,95,54,92,26,Programming,Intermediate
+S005,Deep Learning,94,63,76,143,63,1,AI,Advanced
+S005,Statistics,85,88,51,163,94,26,Analytics,Advanced
+S005,Computer Vision,56,46,62,110,92,28,AI,Intermediate
+S005,Excel,78,95,54,156,66,16,Visualization,Advanced
+S005,Machine Learning,70,54,82,91,52,12,AI,Intermediate
+S006,Machine Learning,59,44,82,67,54,29,AI,Intermediate
+S006,Power BI,89,75,67,133,60,22,Visualization,Advanced
+S006,SQL,90,41,51,90,77,12,Database,Advanced
+S006,Statistics,97,83,86,75,56,21,Analytics,Advanced
+S006,Tableau,49,86,63,109,69,3,Visualization,Beginner
+S006,Web Development,50,42,86,12,79,30,Development,Intermediate
+S006,Data Structures,55,41,97,111,87,13,Programming,Intermediate
+S006,Algorithms,47,76,77,25,95,23,Programming,Beginner
+S006,C++,51,59,56,94,97,3,Programming,Intermediate
+S006,NLP,74,47,98,85,76,16,AI,Intermediate
+S007,Cyber Security,75,43,61,124,94,20,Security,Advanced
+S007,Statistics,41,100,95,38,74,25,Analytics,Beginner
+S007,C++,50,48,58,167,74,15,Programming,Intermediate
+S007,Git,53,81,89,36,93,22,Tools,Intermediate
+S007,Excel,62,70,58,46,97,29,Visualization,Intermediate
+S007,NLP,67,99,79,188,72,26,AI,Intermediate
+S007,Data Structures,62,94,90,64,90,25,Programming,Intermediate
+S007,Deep Learning,60,59,87,153,90,21,AI,Intermediate
+S007,Java,40,47,61,145,95,24,Programming,Beginner
+S007,SQL,71,94,76,114,78,13,Database,Intermediate
+S008,Tableau,53,74,54,118,61,14,Visualization,Intermediate
+S008,Cloud Computing,64,72,78,165,58,13,Cloud,Intermediate
+S008,Data Structures,61,81,61,136,55,7,Programming,Intermediate
+S008,Deep Learning,42,72,83,29,81,23,AI,Beginner
+S008,Cyber Security,40,47,95,24,86,15,Security,Beginner
+S008,NLP,60,91,93,41,88,24,AI,Intermediate
+S008,Excel,73,92,58,105,75,6,Visualization,Intermediate
+S008,Java,53,47,93,44,85,28,Programming,Intermediate
+S008,Machine Learning,95,75,99,195,57,14,AI,Advanced
+S008,Python,54,84,70,197,93,29,Programming,Intermediate
+S009,Git,81,58,71,158,94,15,Tools,Advanced
+S009,Statistics,94,100,100,134,55,30,Analytics,Advanced
+S009,Computer Vision,84,97,78,130,61,28,AI,Advanced
+S009,Machine Learning,94,49,85,121,84,13,AI,Advanced
+S009,Deep Learning,63,43,67,154,90,9,AI,Intermediate
+S009,Data Structures,65,56,85,178,57,6,Programming,Intermediate
+S009,Linux,58,73,98,72,86,19,Tools,Intermediate
+S009,Java,54,43,84,87,81,19,Programming,Intermediate
+S009,Web Development,74,43,87,129,75,2,Development,Intermediate
+S009,SQL,99,87,75,104,72,22,Database,Advanced
+S010,Linux,84,40,99,91,68,23,Tools,Advanced
+S010,Deep Learning,77,93,86,81,55,4,AI,Advanced
+S010,Cloud Computing,83,50,86,102,79,11,Cloud,Advanced
+S010,Git,72,72,68,89,51,14,Tools,Intermediate
+S010,Python,43,89,64,200,59,15,Programming,Beginner
+S010,Web Development,96,51,81,153,57,30,Development,Advanced
+S010,C++,85,68,67,110,63,8,Programming,Advanced
+S010,Java,53,52,58,29,85,25,Programming,Intermediate
+S010,Computer Vision,43,42,82,98,82,10,AI,Beginner
+S010,Machine Learning,99,93,52,131,69,2,AI,Advanced
+S011,Cloud Computing,98,45,76,22,79,12,Cloud,Advanced
+S011,Power BI,68,83,71,149,58,29,Visualization,Intermediate
+S011,Java,61,91,63,119,84,15,Programming,Intermediate
+S011,C++,48,55,67,182,98,14,Programming,Beginner
+S011,Computer Vision,52,66,50,154,85,23,AI,Intermediate
+S011,Git,71,73,79,126,72,10,Tools,Intermediate
+S011,Statistics,53,82,91,181,59,26,Analytics,Intermediate
+S011,Data Structures,64,97,56,86,95,19,Programming,Intermediate
+S011,Deep Learning,51,87,84,66,95,28,AI,Intermediate
+S011,Cyber Security,56,52,53,82,69,26,Security,Intermediate
+S012,Deep Learning,48,58,73,76,82,24,AI,Beginner
+S012,Git,89,96,99,190,92,15,Tools,Advanced
+S012,NLP,53,86,87,27,57,8,AI,Intermediate
+S012,C++,55,56,78,132,99,24,Programming,Intermediate
+S012,Java,85,51,94,181,71,15,Programming,Advanced
+S012,Linux,51,72,76,67,58,17,Tools,Intermediate
+S012,Power BI,66,51,76,46,74,11,Visualization,Intermediate
+S012,Cyber Security,86,58,94,68,62,5,Security,Advanced
+S012,Data Analysis,98,53,70,177,82,1,Analytics,Advanced
+S012,Excel,57,77,65,117,86,30,Visualization,Intermediate
+S013,Data Analysis,98,80,97,137,65,17,Analytics,Advanced
+S013,NLP,90,70,94,73,80,23,AI,Advanced
+S013,Computer Vision,55,73,53,185,98,27,AI,Intermediate
+S013,Excel,95,59,71,76,75,16,Visualization,Advanced
+S013,Python,46,56,71,160,85,22,Programming,Beginner
+S013,C++,50,77,73,30,80,26,Programming,Intermediate
+S013,Statistics,96,75,52,109,52,20,Analytics,Advanced
+S013,Tableau,64,83,60,150,87,10,Visualization,Intermediate
+S013,Git,96,52,59,198,90,22,Tools,Advanced
+S013,Java,68,59,82,58,87,27,Programming,Intermediate
+S014,Statistics,45,88,69,29,57,11,Analytics,Beginner
+S014,SQL,65,95,88,174,76,22,Database,Intermediate
+S014,NLP,61,100,57,164,90,21,AI,Intermediate
+S014,Algorithms,43,95,86,51,67,15,Programming,Beginner
+S014,Cyber Security,43,71,52,64,54,4,Security,Beginner
+S014,Java,78,42,80,31,100,12,Programming,Advanced
+S014,Machine Learning,81,82,69,38,85,16,AI,Advanced
+S014,Data Structures,64,79,82,35,78,30,Programming,Intermediate
+S014,Data Analysis,87,71,62,11,85,1,Analytics,Advanced
+S014,Python,58,84,61,162,67,6,Programming,Intermediate
+S015,Web Development,95,67,76,53,55,29,Development,Advanced
+S015,SQL,40,41,58,161,96,13,Database,Beginner
+S015,Cloud Computing,56,84,59,16,96,11,Cloud,Intermediate
+S015,Statistics,91,85,80,23,76,8,Analytics,Advanced
+S015,NLP,89,46,64,120,85,4,AI,Advanced
+S015,Linux,56,87,85,104,76,14,Tools,Intermediate
+S015,Cyber Security,57,48,59,166,96,24,Security,Intermediate
+S015,Python,65,66,66,10,70,30,Programming,Intermediate
+S015,Power BI,66,99,74,90,99,19,Visualization,Intermediate
+S015,Tableau,87,66,74,20,88,20,Visualization,Advanced
+S016,Tableau,93,54,55,90,52,24,Visualization,Advanced
+S016,Cyber Security,78,56,80,148,91,14,Security,Advanced
+S016,C++,67,64,51,27,50,16,Programming,Intermediate
+S016,Algorithms,67,49,95,153,98,1,Programming,Intermediate
+S016,Machine Learning,52,63,59,45,95,27,AI,Intermediate
+S016,Git,74,88,84,27,59,4,Tools,Intermediate
+S016,Web Development,44,69,99,98,94,6,Development,Beginner
+S016,Excel,85,94,50,124,67,7,Visualization,Advanced
+S016,Computer Vision,96,44,95,126,66,15,AI,Advanced
+S016,Data Structures,48,60,53,137,86,27,Programming,Beginner
+S017,Java,54,67,81,147,87,9,Programming,Intermediate
+S017,Computer Vision,86,80,59,59,75,25,AI,Advanced
+S017,Cloud Computing,52,45,52,113,68,23,Cloud,Intermediate
+S017,Tableau,62,84,78,26,88,17,Visualization,Intermediate
+S017,Python,95,83,58,131,66,2,Programming,Advanced
+S017,Cyber Security,40,42,89,87,91,18,Security,Beginner
+S017,Deep Learning,60,49,92,120,54,23,AI,Intermediate
+S017,Algorithms,85,100,79,141,96,23,Programming,Advanced
+S017,Data Structures,67,90,83,80,66,11,Programming,Intermediate
+S017,NLP,84,43,69,47,83,13,AI,Advanced
+S018,Computer Vision,49,45,58,25,93,26,AI,Beginner
+S018,Machine Learning,80,98,93,186,65,14,AI,Advanced
+S018,Cyber Security,68,93,60,75,71,10,Security,Intermediate
+S018,Deep Learning,92,88,77,77,51,30,AI,Advanced
+S018,Python,87,71,51,158,76,10,Programming,Advanced
+S018,Cloud Computing,65,78,83,148,57,10,Cloud,Intermediate
+S018,Java,97,78,61,198,54,29,Programming,Advanced
+S018,Web Development,85,87,58,47,82,21,Development,Advanced
+S018,C++,56,90,89,85,87,29,Programming,Intermediate
+S018,Git,97,44,90,52,52,26,Tools,Advanced
+S019,Linux,75,81,98,73,51,3,Tools,Advanced
+S019,Data Structures,91,56,76,52,78,22,Programming,Advanced
+S019,Python,63,96,52,79,56,15,Programming,Intermediate
+S019,Machine Learning,52,57,88,131,55,12,AI,Intermediate
+S019,Java,78,93,99,82,95,17,Programming,Advanced
+S019,Tableau,72,79,90,143,83,4,Visualization,Intermediate
+S019,Deep Learning,41,99,69,180,77,19,AI,Beginner
+S019,C++,82,41,63,82,100,27,Programming,Advanced
+S019,NLP,60,80,64,136,50,20,AI,Intermediate
+S019,Computer Vision,66,41,68,73,52,5,AI,Intermediate
+S020,NLP,63,68,54,178,55,14,AI,Intermediate
+S020,Git,86,66,77,178,60,22,Tools,Advanced
+S020,Linux,54,83,67,132,76,22,Tools,Intermediate
+S020,Algorithms,80,98,64,187,96,6,Programming,Advanced
+S020,Excel,55,41,76,40,76,11,Visualization,Intermediate
+S020,Tableau,73,91,57,152,64,11,Visualization,Intermediate
+S020,Computer Vision,91,70,59,128,98,23,AI,Advanced
+S020,Statistics,63,59,95,178,63,14,Analytics,Intermediate
+S020,Python,73,75,96,118,94,15,Programming,Intermediate
+S020,Power BI,51,68,100,81,74,22,Visualization,Intermediate
+S021,Web Development,40,52,53,96,54,7,Development,Beginner
+S021,Power BI,59,54,66,128,91,22,Visualization,Intermediate
+S021,Cyber Security,97,83,57,77,54,20,Security,Advanced
+S021,Tableau,83,96,56,194,87,21,Visualization,Advanced
+S021,Java,88,80,76,116,78,30,Programming,Advanced
+S021,SQL,61,53,53,121,91,16,Database,Intermediate
+S021,Algorithms,61,80,91,108,88,4,Programming,Intermediate
+S021,C++,46,44,77,113,100,20,Programming,Beginner
+S021,Deep Learning,60,44,80,102,56,28,AI,Intermediate
+S021,Excel,92,98,78,141,59,20,Visualization,Advanced
+S022,Java,74,97,98,141,69,14,Programming,Intermediate
+S022,Linux,58,68,84,94,57,8,Tools,Intermediate
+S022,Tableau,91,74,50,164,81,11,Visualization,Advanced
+S022,Git,55,67,66,71,56,27,Tools,Intermediate
+S022,NLP,45,44,64,100,91,21,AI,Beginner
+S022,Cloud Computing,73,68,69,182,50,8,Cloud,Intermediate
+S022,Machine Learning,78,79,91,92,69,3,AI,Advanced
+S022,Algorithms,56,44,95,141,67,7,Programming,Intermediate
+S022,Excel,97,52,50,130,95,25,Visualization,Advanced
+S022,Python,58,42,93,38,98,30,Programming,Intermediate
+S023,Linux,68,60,87,198,68,11,Tools,Intermediate
+S023,Java,66,75,59,78,69,24,Programming,Intermediate
+S023,Deep Learning,87,71,56,194,91,25,AI,Advanced
+S023,Computer Vision,56,52,55,177,61,29,AI,Intermediate
+S023,Cyber Security,81,69,83,137,84,9,Security,Advanced
+S023,Power BI,49,84,62,31,96,30,Visualization,Beginner
+S023,Algorithms,69,49,57,191,63,20,Programming,Intermediate
+S023,Machine Learning,92,51,81,181,70,10,AI,Advanced
+S023,Python,61,67,76,145,52,16,Programming,Intermediate
+S023,Excel,79,78,88,24,53,2,Visualization,Advanced
+S024,Tableau,75,50,94,165,69,30,Visualization,Advanced
+S024,Java,56,46,52,47,52,12,Programming,Intermediate
+S024,Cloud Computing,40,82,79,57,97,29,Cloud,Beginner
+S024,C++,79,48,96,12,84,29,Programming,Advanced
+S024,Algorithms,45,55,58,101,57,24,Programming,Beginner
+S024,Git,85,77,55,132,93,27,Tools,Advanced
+S024,Excel,79,77,92,38,82,25,Visualization,Advanced
+S024,Power BI,85,91,73,98,66,27,Visualization,Advanced
+S024,Cyber Security,46,63,57,190,66,28,Security,Beginner
+S024,Data Structures,41,44,54,102,55,12,Programming,Beginner
+S025,Data Analysis,87,68,91,127,55,16,Analytics,Advanced
+S025,C++,56,65,74,35,51,13,Programming,Intermediate
+S025,NLP,76,71,54,77,76,24,AI,Advanced
+S025,Statistics,51,82,78,20,87,30,Analytics,Intermediate
+S025,Linux,49,61,60,90,83,18,Tools,Beginner
+S025,Web Development,73,90,73,41,52,25,Development,Intermediate
+S025,Cyber Security,85,96,66,184,90,23,Security,Advanced
+S025,Java,63,80,85,170,87,10,Programming,Intermediate
+S025,Computer Vision,49,43,88,165,55,15,AI,Beginner
+S025,Tableau,47,75,97,96,59,11,Visualization,Beginner
+S026,Git,99,57,58,191,70,24,Tools,Advanced
+S026,SQL,59,58,75,46,69,26,Database,Intermediate
+S026,Python,84,50,75,198,87,20,Programming,Advanced
+S026,Data Structures,70,74,51,131,57,26,Programming,Intermediate
+S026,NLP,78,96,56,55,88,23,AI,Advanced
+S026,Deep Learning,84,88,100,108,99,25,AI,Advanced
+S026,Tableau,98,63,75,33,64,21,Visualization,Advanced
+S026,Computer Vision,68,77,86,105,54,7,AI,Intermediate
+S026,C++,76,54,74,179,60,16,Programming,Advanced
+S026,Linux,62,53,84,109,94,27,Tools,Intermediate
+S027,Linux,66,51,56,71,53,3,Tools,Intermediate
+S027,Git,51,63,83,122,63,29,Tools,Intermediate
+S027,Deep Learning,71,42,53,53,75,24,AI,Intermediate
+S027,SQL,96,83,63,51,82,19,Database,Advanced
+S027,Computer Vision,60,60,84,101,87,15,AI,Intermediate
+S027,C++,52,43,52,11,58,20,Programming,Intermediate
+S027,Java,61,81,69,122,89,28,Programming,Intermediate
+S027,Cloud Computing,42,70,93,113,55,30,Cloud,Beginner
+S027,Machine Learning,79,46,69,134,88,15,AI,Advanced
+S027,Python,50,93,52,12,62,12,Programming,Intermediate
+S028,Computer Vision,96,60,51,137,67,18,AI,Advanced
+S028,Statistics,45,50,53,188,60,4,Analytics,Beginner
+S028,C++,66,87,100,74,70,14,Programming,Intermediate
+S028,Machine Learning,42,92,61,186,53,18,AI,Beginner
+S028,Algorithms,55,78,97,143,56,3,Programming,Intermediate
+S028,Data Structures,95,79,74,135,78,2,Programming,Advanced
+S028,Linux,71,55,65,171,51,16,Tools,Intermediate
+S028,Deep Learning,57,97,88,86,54,22,AI,Intermediate
+S028,Tableau,41,76,50,74,80,16,Visualization,Beginner
+S028,Web Development,70,80,76,113,86,22,Development,Intermediate
+S029,Tableau,83,56,87,37,63,2,Visualization,Advanced
+S029,Data Structures,41,91,59,159,72,17,Programming,Beginner
+S029,SQL,45,74,58,193,86,28,Database,Beginner
+S029,Statistics,66,85,91,45,56,9,Analytics,Intermediate
+S029,Git,66,100,88,85,98,14,Tools,Intermediate
+S029,Data Analysis,51,54,87,49,69,1,Analytics,Intermediate
+S029,C++,97,100,92,73,51,10,Programming,Advanced
+S029,Cloud Computing,48,64,70,191,69,14,Cloud,Beginner
+S029,NLP,65,79,93,10,63,17,AI,Intermediate
+S029,Deep Learning,98,59,56,131,78,7,AI,Advanced
+S030,Tableau,80,42,80,76,56,24,Visualization,Advanced
+S030,Web Development,76,48,95,75,94,26,Development,Advanced
+S030,Computer Vision,45,59,94,38,79,10,AI,Beginner
+S030,Linux,47,51,52,47,92,23,Tools,Beginner
+S030,Deep Learning,50,62,87,64,57,29,AI,Intermediate
+S030,Cloud Computing,44,91,87,134,84,1,Cloud,Beginner
+S030,C++,52,81,73,85,57,16,Programming,Intermediate
+S030,Python,97,80,60,123,96,19,Programming,Advanced
+S030,Cyber Security,41,43,78,107,63,10,Security,Beginner
+S030,Power BI,59,66,95,17,70,16,Visualization,Intermediate
+S031,Data Analysis,68,64,95,67,50,5,Analytics,Intermediate
+S031,Deep Learning,98,63,81,137,83,10,AI,Advanced
+S031,Computer Vision,69,45,68,68,70,14,AI,Intermediate
+S031,Linux,81,54,79,112,51,2,Tools,Advanced
+S031,NLP,54,98,78,124,80,16,AI,Intermediate
+S031,Java,65,62,93,108,63,6,Programming,Intermediate
+S031,Web Development,76,72,98,94,82,21,Development,Advanced
+S031,C++,59,79,76,189,78,9,Programming,Intermediate
+S031,Statistics,57,100,86,59,54,7,Analytics,Intermediate
+S031,Algorithms,49,57,95,134,53,8,Programming,Beginner
+S032,Power BI,99,55,68,126,83,6,Visualization,Advanced
+S032,Python,93,43,60,189,54,13,Programming,Advanced
+S032,Web Development,54,59,78,165,81,26,Development,Intermediate
+S032,Data Structures,77,76,94,115,61,17,Programming,Advanced
+S032,NLP,73,65,85,144,75,23,AI,Intermediate
+S032,Git,97,86,67,163,55,19,Tools,Advanced
+S032,Cloud Computing,63,64,83,48,51,11,Cloud,Intermediate
+S032,C++,63,45,72,166,59,12,Programming,Intermediate
+S032,Tableau,69,85,65,100,75,18,Visualization,Intermediate
+S032,Linux,84,83,92,176,97,9,Tools,Advanced
+S033,SQL,92,77,57,153,62,29,Database,Advanced
+S033,Tableau,70,45,53,166,57,24,Visualization,Intermediate
+S033,Cyber Security,59,87,93,133,100,17,Security,Intermediate
+S033,Data Analysis,72,78,69,193,83,26,Analytics,Intermediate
+S033,Machine Learning,53,98,91,112,57,6,AI,Intermediate
+S033,Excel,96,42,68,194,62,6,Visualization,Advanced
+S033,C++,56,43,92,93,67,13,Programming,Intermediate
+S033,Cloud Computing,57,70,65,59,52,24,Cloud,Intermediate
+S033,Statistics,70,88,100,92,72,18,Analytics,Intermediate
+S033,Deep Learning,83,76,78,35,92,16,AI,Advanced
+S034,Tableau,88,98,67,14,54,27,Visualization,Advanced
+S034,NLP,62,80,72,140,96,1,AI,Intermediate
+S034,Web Development,64,74,71,168,55,9,Development,Intermediate
+S034,Power BI,40,77,64,31,64,10,Visualization,Beginner
+S034,Python,67,75,51,140,85,29,Programming,Intermediate
+S034,Excel,40,99,88,141,90,7,Visualization,Beginner
+S034,C++,40,96,75,70,75,4,Programming,Beginner
+S034,Data Analysis,66,77,67,101,53,6,Analytics,Intermediate
+S034,Cyber Security,83,55,86,37,60,23,Security,Advanced
+S034,Machine Learning,75,91,72,98,95,29,AI,Advanced
+S035,Data Analysis,56,40,84,59,71,3,Analytics,Intermediate
+S035,Python,94,46,93,133,96,17,Programming,Advanced
+S035,Statistics,83,98,91,103,69,24,Analytics,Advanced
+S035,Linux,47,68,61,107,72,17,Tools,Beginner
+S035,SQL,70,55,96,46,71,1,Database,Intermediate
+S035,Cloud Computing,67,41,75,55,57,27,Cloud,Intermediate
+S035,C++,80,97,68,139,83,25,Programming,Advanced
+S035,NLP,85,61,98,12,50,25,AI,Advanced
+S035,Algorithms,76,63,52,182,50,4,Programming,Advanced
+S035,Cyber Security,70,47,73,165,64,24,Security,Intermediate
+S036,SQL,46,45,90,165,78,24,Database,Beginner
+S036,C++,72,60,81,126,64,1,Programming,Intermediate
+S036,Git,48,64,76,187,61,24,Tools,Beginner
+S036,Linux,74,88,84,44,51,18,Tools,Intermediate
+S036,Statistics,58,40,78,98,74,4,Analytics,Intermediate
+S036,Machine Learning,79,97,58,102,51,26,AI,Advanced
+S036,Python,75,44,65,166,88,3,Programming,Advanced
+S036,Tableau,50,84,57,168,87,28,Visualization,Intermediate
+S036,NLP,72,79,79,87,63,5,AI,Intermediate
+S036,Java,76,57,63,42,100,25,Programming,Advanced
+S037,Data Structures,54,88,86,48,89,17,Programming,Intermediate
+S037,Computer Vision,94,54,63,25,57,5,AI,Advanced
+S037,NLP,97,56,71,46,90,16,AI,Advanced
+S037,Linux,59,76,88,150,100,6,Tools,Intermediate
+S037,Excel,44,50,53,56,52,20,Visualization,Beginner
+S037,Git,76,69,99,59,95,10,Tools,Advanced
+S037,Cyber Security,45,80,81,135,69,13,Security,Beginner
+S037,C++,91,100,61,104,91,3,Programming,Advanced
+S037,Tableau,72,79,89,172,61,13,Visualization,Intermediate
+S037,Cloud Computing,74,51,83,48,66,20,Cloud,Intermediate
+S038,Linux,71,44,80,101,90,5,Tools,Intermediate
+S038,Computer Vision,65,58,94,70,82,1,AI,Intermediate
+S038,Git,59,79,50,117,83,12,Tools,Intermediate
+S038,SQL,64,70,66,165,73,3,Database,Intermediate
+S038,Machine Learning,52,46,100,102,64,22,AI,Intermediate
+S038,C++,66,68,66,36,89,25,Programming,Intermediate
+S038,Statistics,88,50,77,77,92,23,Analytics,Advanced
+S038,Data Structures,47,45,64,138,73,23,Programming,Beginner
+S038,NLP,84,88,67,146,51,7,AI,Advanced
+S038,Tableau,61,92,71,122,91,22,Visualization,Intermediate
+S039,Python,71,44,65,27,59,20,Programming,Intermediate
+S039,Algorithms,79,68,51,173,80,25,Programming,Advanced
+S039,Excel,67,49,65,122,80,22,Visualization,Intermediate
+S039,Computer Vision,71,98,98,143,92,28,AI,Intermediate
+S039,Cloud Computing,64,65,79,21,68,19,Cloud,Intermediate
+S039,Data Analysis,90,95,83,162,88,23,Analytics,Advanced
+S039,Deep Learning,98,84,54,194,63,4,AI,Advanced
+S039,C++,53,42,87,141,61,24,Programming,Intermediate
+S039,SQL,79,43,74,149,57,22,Database,Advanced
+S039,Power BI,89,61,94,196,100,22,Visualization,Advanced
+S040,Tableau,61,49,68,41,79,28,Visualization,Intermediate
+S040,Linux,58,45,59,91,60,4,Tools,Intermediate
+S040,Web Development,64,54,89,185,100,7,Development,Intermediate
+S040,Statistics,87,89,58,98,69,24,Analytics,Advanced
+S040,Data Analysis,99,80,77,12,75,6,Analytics,Advanced
+S040,SQL,42,58,87,190,67,13,Database,Beginner
+S040,Data Structures,95,61,87,23,64,10,Programming,Advanced
+S040,Excel,97,67,57,137,98,29,Visualization,Advanced
+S040,NLP,43,52,94,111,100,18,AI,Beginner
+S040,Cyber Security,43,74,62,180,73,12,Security,Beginner
+S041,Excel,71,69,63,79,69,19,Visualization,Intermediate
+S041,Deep Learning,65,51,70,163,69,29,AI,Intermediate
+S041,Computer Vision,91,53,81,15,76,21,AI,Advanced
+S041,SQL,69,48,94,52,64,27,Database,Intermediate
+S041,NLP,71,52,82,173,80,26,AI,Intermediate
+S041,Data Analysis,43,60,72,49,73,15,Analytics,Beginner
+S041,Machine Learning,61,79,99,145,54,17,AI,Intermediate
+S041,Statistics,62,81,53,80,99,9,Analytics,Intermediate
+S041,Java,56,79,50,162,59,16,Programming,Intermediate
+S041,Cloud Computing,95,69,58,12,75,11,Cloud,Advanced
+S042,Python,88,64,50,111,55,14,Programming,Advanced
+S042,Deep Learning,40,84,71,109,56,1,AI,Beginner
+S042,SQL,61,67,100,48,59,2,Database,Intermediate
+S042,Cyber Security,61,74,95,152,74,23,Security,Intermediate
+S042,Data Analysis,46,81,71,138,66,27,Analytics,Beginner
+S042,Power BI,89,52,54,41,69,21,Visualization,Advanced
+S042,C++,56,61,75,49,56,16,Programming,Intermediate
+S042,Algorithms,96,81,69,153,77,3,Programming,Advanced
+S042,Machine Learning,51,50,62,58,86,5,AI,Intermediate
+S042,Computer Vision,42,70,72,178,75,6,AI,Beginner
+S043,Excel,68,75,55,47,71,29,Visualization,Intermediate
+S043,Java,84,48,50,172,61,25,Programming,Advanced
+S043,Git,47,79,70,140,68,25,Tools,Beginner
+S043,Tableau,90,51,85,79,56,18,Visualization,Advanced
+S043,Linux,41,89,69,198,95,19,Tools,Beginner
+S043,Statistics,98,79,88,135,96,20,Analytics,Advanced
+S043,Web Development,63,85,97,123,78,8,Development,Intermediate
+S043,Python,80,73,68,18,78,4,Programming,Advanced
+S043,SQL,92,69,79,188,83,2,Database,Advanced
+S043,Deep Learning,45,68,64,52,81,12,AI,Beginner
+S044,Git,50,79,81,19,64,16,Tools,Intermediate
+S044,Data Analysis,49,86,55,176,98,8,Analytics,Beginner
+S044,Algorithms,64,55,56,70,89,25,Programming,Intermediate
+S044,NLP,80,89,89,47,52,10,AI,Advanced
+S044,Deep Learning,85,97,84,59,73,15,AI,Advanced
+S044,SQL,96,87,95,107,98,13,Database,Advanced
+S044,Web Development,51,60,78,166,68,11,Development,Intermediate
+S044,Cyber Security,58,98,88,29,81,11,Security,Intermediate
+S044,Linux,44,42,50,92,74,28,Tools,Beginner
+S044,Machine Learning,42,56,84,169,65,7,AI,Beginner
+S045,Power BI,81,61,92,11,89,21,Visualization,Advanced
+S045,Python,54,44,85,165,59,12,Programming,Intermediate
+S045,Cyber Security,88,52,92,101,76,29,Security,Advanced
+S045,SQL,47,74,79,11,85,5,Database,Beginner
+S045,NLP,54,68,73,74,87,21,AI,Intermediate
+S045,Statistics,53,61,79,153,81,2,Analytics,Intermediate
+S045,Excel,96,71,88,188,78,7,Visualization,Advanced
+S045,Linux,86,59,72,153,82,5,Tools,Advanced
+S045,Git,63,100,59,125,92,30,Tools,Intermediate
+S045,Algorithms,78,65,73,157,73,29,Programming,Advanced
+S046,Statistics,81,99,71,106,89,11,Analytics,Advanced
+S046,Java,44,93,84,143,56,19,Programming,Beginner
+S046,Power BI,46,79,71,22,61,30,Visualization,Beginner
+S046,SQL,59,97,80,59,64,15,Database,Intermediate
+S046,Data Structures,68,47,87,19,70,26,Programming,Intermediate
+S046,Machine Learning,83,50,99,92,56,4,AI,Advanced
+S046,Git,58,100,100,99,88,5,Tools,Intermediate
+S046,Algorithms,55,79,54,99,94,22,Programming,Intermediate
+S046,Data Analysis,60,87,87,15,75,8,Analytics,Intermediate
+S046,Cloud Computing,71,81,90,104,93,21,Cloud,Intermediate
+S047,Linux,62,79,63,29,87,19,Tools,Intermediate
+S047,Cloud Computing,63,41,76,188,67,22,Cloud,Intermediate
+S047,Computer Vision,67,81,90,146,54,20,AI,Intermediate
+S047,Data Structures,49,94,70,29,56,17,Programming,Beginner
+S047,Algorithms,63,50,50,50,96,30,Programming,Intermediate
+S047,NLP,55,58,76,175,68,3,AI,Intermediate
+S047,Data Analysis,98,70,74,67,56,11,Analytics,Advanced
+S047,SQL,78,73,98,117,96,26,Database,Advanced
+S047,Statistics,89,54,65,131,67,3,Analytics,Advanced
+S047,Power BI,50,49,74,124,51,21,Visualization,Intermediate
+S048,Algorithms,56,46,87,37,61,8,Programming,Intermediate
+S048,Python,90,76,78,145,97,2,Programming,Advanced
+S048,Data Structures,44,63,51,54,93,11,Programming,Beginner
+S048,Git,61,84,87,143,50,3,Tools,Intermediate
+S048,Excel,56,98,68,171,94,10,Visualization,Intermediate
+S048,Data Analysis,46,58,80,135,57,15,Analytics,Beginner
+S048,SQL,66,85,77,11,50,24,Database,Intermediate
+S048,Linux,99,81,80,111,55,26,Tools,Advanced
+S048,Java,69,69,54,58,52,28,Programming,Intermediate
+S048,Machine Learning,88,75,78,151,96,5,AI,Advanced
+S049,Computer Vision,70,100,63,38,52,24,AI,Intermediate
+S049,Cloud Computing,47,56,84,71,57,11,Cloud,Beginner
+S049,Power BI,87,100,95,188,82,29,Visualization,Advanced
+S049,Statistics,68,46,55,66,78,7,Analytics,Intermediate
+S049,Data Structures,64,78,65,98,71,27,Programming,Intermediate
+S049,NLP,91,88,92,197,62,11,AI,Advanced
+S049,Web Development,61,61,73,55,58,27,Development,Intermediate
+S049,Cyber Security,97,79,84,100,95,5,Security,Advanced
+S049,Excel,90,40,67,96,67,1,Visualization,Advanced
+S049,C++,82,71,64,103,76,9,Programming,Advanced
+S050,Statistics,56,74,92,172,93,14,Analytics,Intermediate
+S050,Cloud Computing,65,57,51,121,80,13,Cloud,Intermediate
+S050,Web Development,81,58,77,160,95,10,Development,Advanced
+S050,Data Analysis,87,80,71,99,89,24,Analytics,Advanced
+S050,Python,70,61,56,41,76,9,Programming,Intermediate
+S050,Excel,44,48,92,130,51,29,Visualization,Beginner
+S050,C++,79,67,50,121,82,3,Programming,Advanced
+S050,Cyber Security,43,99,70,56,51,14,Security,Beginner
+S050,Algorithms,86,51,72,104,84,11,Programming,Advanced
+S050,Machine Learning,40,76,61,126,78,9,AI,Beginner
+S051,Machine Learning,93,70,72,162,73,27,AI,Advanced
+S051,Data Structures,56,56,76,139,72,10,Programming,Intermediate
+S051,SQL,73,80,91,35,60,20,Database,Intermediate
+S051,Tableau,80,90,91,79,77,16,Visualization,Advanced
+S051,Java,41,91,56,149,64,29,Programming,Beginner
+S051,Deep Learning,40,69,87,19,51,26,AI,Beginner
+S051,Excel,95,54,73,55,85,3,Visualization,Advanced
+S051,Cloud Computing,85,56,54,23,74,28,Cloud,Advanced
+S051,Python,42,67,60,75,80,3,Programming,Beginner
+S051,Web Development,74,69,82,37,68,3,Development,Intermediate
+S052,Web Development,54,91,74,78,56,26,Development,Intermediate
+S052,Computer Vision,43,77,79,70,75,26,AI,Beginner
+S052,Cyber Security,76,74,54,156,91,12,Security,Advanced
+S052,Deep Learning,49,44,99,23,56,30,AI,Beginner
+S052,Statistics,47,64,55,155,61,14,Analytics,Beginner
+S052,Python,76,72,62,14,61,16,Programming,Advanced
+S052,C++,88,61,51,58,57,6,Programming,Advanced
+S052,Linux,94,79,67,14,93,5,Tools,Advanced
+S052,Java,55,70,81,111,97,30,Programming,Intermediate
+S052,Git,59,60,84,183,79,13,Tools,Intermediate
+S053,Cloud Computing,91,92,58,92,62,24,Cloud,Advanced
+S053,Computer Vision,47,98,75,29,70,15,AI,Beginner
+S053,Statistics,45,86,59,131,81,21,Analytics,Beginner
+S053,Cyber Security,55,84,59,108,65,9,Security,Intermediate
+S053,Tableau,61,98,83,42,98,30,Visualization,Intermediate
+S053,Java,46,82,72,176,66,27,Programming,Beginner
+S053,Excel,91,95,95,159,58,29,Visualization,Advanced
+S053,Data Structures,61,66,65,193,84,16,Programming,Intermediate
+S053,Linux,57,55,76,43,55,23,Tools,Intermediate
+S053,Python,72,95,86,105,79,14,Programming,Intermediate
+S054,Algorithms,42,59,61,41,71,17,Programming,Beginner
+S054,Data Structures,76,70,60,99,91,14,Programming,Advanced
+S054,Excel,62,57,85,144,79,5,Visualization,Intermediate
+S054,Computer Vision,94,74,72,175,74,12,AI,Advanced
+S054,Linux,74,77,85,149,62,30,Tools,Intermediate
+S054,Data Analysis,74,84,77,121,76,10,Analytics,Intermediate
+S054,Python,76,78,92,27,94,25,Programming,Advanced
+S054,Git,54,74,85,61,68,27,Tools,Intermediate
+S054,C++,48,91,59,179,79,8,Programming,Beginner
+S054,SQL,65,69,58,124,98,21,Database,Intermediate
+S055,Deep Learning,64,77,94,128,94,22,AI,Intermediate
+S055,NLP,92,98,61,165,59,23,AI,Advanced
+S055,Web Development,68,96,70,90,52,12,Development,Intermediate
+S055,C++,46,99,98,27,91,17,Programming,Beginner
+S055,Computer Vision,71,40,73,87,66,12,AI,Intermediate
+S055,Data Analysis,70,91,78,30,69,14,Analytics,Intermediate
+S055,Statistics,47,99,51,70,73,29,Analytics,Beginner
+S055,Linux,65,44,57,161,62,6,Tools,Intermediate
+S055,Power BI,96,86,73,88,77,26,Visualization,Advanced
+S055,Data Structures,75,41,90,60,56,13,Programming,Advanced
+S056,Cyber Security,46,53,71,69,66,18,Security,Beginner
+S056,Algorithms,76,70,82,112,68,12,Programming,Advanced
+S056,Statistics,58,58,59,14,76,28,Analytics,Intermediate
+S056,Java,91,46,82,26,63,10,Programming,Advanced
+S056,Excel,64,67,87,115,73,2,Visualization,Intermediate
+S056,Data Structures,90,77,75,96,60,23,Programming,Advanced
+S056,C++,55,67,61,68,70,1,Programming,Intermediate
+S056,Machine Learning,82,59,81,132,56,3,AI,Advanced
+S056,SQL,94,67,61,55,64,25,Database,Advanced
+S056,Power BI,84,86,92,150,80,10,Visualization,Advanced
+S057,Java,78,85,63,16,84,19,Programming,Advanced
+S057,Web Development,76,64,87,71,99,25,Development,Advanced
+S057,Cloud Computing,53,44,99,131,97,27,Cloud,Intermediate
+S057,Algorithms,93,70,92,175,91,14,Programming,Advanced
+S057,C++,89,55,67,120,54,14,Programming,Advanced
+S057,Excel,59,82,61,92,100,12,Visualization,Intermediate
+S057,Python,89,93,66,17,75,22,Programming,Advanced
+S057,Linux,43,88,55,34,58,1,Tools,Beginner
+S057,NLP,45,68,83,188,81,24,AI,Beginner
+S057,Tableau,67,95,76,10,55,22,Visualization,Intermediate
+S058,Statistics,55,54,63,160,55,7,Analytics,Intermediate
+S058,Git,65,47,59,62,79,18,Tools,Intermediate
+S058,NLP,42,78,92,113,75,21,AI,Beginner
+S058,Linux,96,99,55,97,61,28,Tools,Advanced
+S058,Cyber Security,58,95,51,62,92,20,Security,Intermediate
+S058,Algorithms,77,67,72,125,52,28,Programming,Advanced
+S058,Power BI,43,83,56,159,99,22,Visualization,Beginner
+S058,Tableau,86,76,83,60,99,29,Visualization,Advanced
+S058,Data Analysis,81,96,63,93,68,1,Analytics,Advanced
+S058,Deep Learning,66,58,78,119,73,24,AI,Intermediate
+S059,Statistics,73,56,58,101,58,15,Analytics,Intermediate
+S059,SQL,55,57,81,11,97,18,Database,Intermediate
+S059,Cyber Security,94,45,92,154,83,2,Security,Advanced
+S059,Web Development,42,57,76,196,86,11,Development,Beginner
+S059,C++,57,87,78,109,50,30,Programming,Intermediate
+S059,NLP,56,40,60,143,85,7,AI,Intermediate
+S059,Excel,75,56,68,164,70,19,Visualization,Advanced
+S059,Java,49,98,75,123,50,1,Programming,Beginner
+S059,Algorithms,44,98,54,34,76,9,Programming,Beginner
+S059,Python,51,42,55,194,80,17,Programming,Intermediate
+S060,Algorithms,58,78,93,34,60,1,Programming,Intermediate
+S060,Cyber Security,56,62,79,73,90,25,Security,Intermediate
+S060,Deep Learning,78,45,61,108,75,18,AI,Advanced
+S060,Java,96,80,83,91,66,11,Programming,Advanced
+S060,Data Analysis,46,49,76,70,78,2,Analytics,Beginner
+S060,SQL,51,64,73,156,75,25,Database,Intermediate
+S060,Python,99,72,91,158,67,19,Programming,Advanced
+S060,Git,47,84,94,56,88,14,Tools,Beginner
+S060,Computer Vision,65,81,86,75,90,30,AI,Intermediate
+S060,Machine Learning,59,77,50,57,68,23,AI,Intermediate
+S061,Java,78,79,51,137,88,29,Programming,Advanced
+S061,NLP,58,49,68,61,70,5,AI,Intermediate
+S061,Git,62,80,84,35,86,10,Tools,Intermediate
+S061,Machine Learning,51,85,98,196,75,22,AI,Intermediate
+S061,Data Structures,94,64,62,70,50,4,Programming,Advanced
+S061,Data Analysis,44,50,97,27,82,26,Analytics,Beginner
+S061,Tableau,70,69,97,132,84,12,Visualization,Intermediate
+S061,Linux,58,94,61,131,71,27,Tools,Intermediate
+S061,Algorithms,60,85,70,196,82,22,Programming,Intermediate
+S061,Cyber Security,86,90,52,126,68,19,Security,Advanced
+S062,SQL,52,50,73,115,95,27,Database,Intermediate
+S062,Statistics,75,71,76,159,90,15,Analytics,Advanced
+S062,Cloud Computing,62,100,80,23,75,30,Cloud,Intermediate
+S062,Tableau,60,51,51,15,93,23,Visualization,Intermediate
+S062,Web Development,70,90,67,18,100,30,Development,Intermediate
+S062,Computer Vision,56,51,99,79,93,29,AI,Intermediate
+S062,Linux,92,57,81,63,90,23,Tools,Advanced
+S062,Cyber Security,79,40,68,54,89,9,Security,Advanced
+S062,Data Analysis,79,55,84,73,78,9,Analytics,Advanced
+S062,Algorithms,88,71,61,141,82,25,Programming,Advanced
+S063,Python,95,58,93,64,69,11,Programming,Advanced
+S063,Data Structures,84,71,98,119,58,24,Programming,Advanced
+S063,Computer Vision,80,73,50,41,67,1,AI,Advanced
+S063,Tableau,85,62,60,40,69,30,Visualization,Advanced
+S063,Cyber Security,62,53,54,82,98,28,Security,Intermediate
+S063,Cloud Computing,72,86,76,38,89,25,Cloud,Intermediate
+S063,NLP,89,86,85,180,98,26,AI,Advanced
+S063,Linux,84,77,85,55,69,12,Tools,Advanced
+S063,Deep Learning,94,46,89,10,94,10,AI,Advanced
+S063,Web Development,93,69,93,94,57,15,Development,Advanced
+S064,Data Structures,65,68,63,31,92,15,Programming,Intermediate
+S064,Java,61,67,78,109,66,24,Programming,Intermediate
+S064,Linux,93,57,66,94,60,30,Tools,Advanced
+S064,Deep Learning,56,82,100,166,59,12,AI,Intermediate
+S064,Python,69,50,72,59,63,2,Programming,Intermediate
+S064,Machine Learning,80,67,75,97,81,15,AI,Advanced
+S064,Cyber Security,43,69,54,50,63,14,Security,Beginner
+S064,Algorithms,78,64,82,119,51,23,Programming,Advanced
+S064,Git,40,72,71,187,51,15,Tools,Beginner
+S064,Data Analysis,49,63,97,82,70,11,Analytics,Beginner
+S065,NLP,57,98,67,160,52,8,AI,Intermediate
+S065,Algorithms,83,82,72,13,95,10,Programming,Advanced
+S065,Data Structures,40,86,91,197,79,29,Programming,Beginner
+S065,Power BI,64,86,88,164,66,18,Visualization,Intermediate
+S065,Git,57,78,51,126,73,21,Tools,Intermediate
+S065,Machine Learning,97,41,54,144,97,17,AI,Advanced
+S065,Linux,45,42,91,68,64,13,Tools,Beginner
+S065,C++,77,65,74,142,65,21,Programming,Advanced
+S065,Java,46,92,80,142,99,23,Programming,Beginner
+S065,Deep Learning,48,95,74,147,54,23,AI,Beginner
+S066,Machine Learning,69,70,74,43,79,14,AI,Intermediate
+S066,Linux,42,92,100,46,88,5,Tools,Beginner
+S066,Power BI,92,100,60,182,84,1,Visualization,Advanced
+S066,Tableau,53,49,80,11,91,30,Visualization,Intermediate
+S066,Cyber Security,60,68,66,31,56,18,Security,Intermediate
+S066,Cloud Computing,54,51,76,58,90,17,Cloud,Intermediate
+S066,Git,77,79,89,39,70,10,Tools,Advanced
+S066,NLP,87,93,79,35,74,6,AI,Advanced
+S066,Python,47,97,85,49,70,6,Programming,Beginner
+S066,SQL,78,94,97,130,91,13,Database,Advanced
+S067,Python,59,47,93,64,73,12,Programming,Intermediate
+S067,Algorithms,56,73,89,137,92,22,Programming,Intermediate
+S067,Statistics,57,70,86,133,55,22,Analytics,Intermediate
+S067,Cloud Computing,95,53,70,110,78,26,Cloud,Advanced
+S067,Excel,85,98,67,75,63,14,Visualization,Advanced
+S067,Deep Learning,60,72,86,155,82,18,AI,Intermediate
+S067,Tableau,57,54,84,23,57,20,Visualization,Intermediate
+S067,NLP,65,83,75,92,57,23,AI,Intermediate
+S067,C++,85,42,96,105,88,21,Programming,Advanced
+S067,Git,71,82,87,196,66,14,Tools,Intermediate
+S068,Deep Learning,83,93,84,163,86,2,AI,Advanced
+S068,Computer Vision,83,87,59,124,96,20,AI,Advanced
+S068,Cloud Computing,43,58,78,147,61,13,Cloud,Beginner
+S068,Java,70,48,100,131,78,23,Programming,Intermediate
+S068,Data Structures,56,54,73,39,61,18,Programming,Intermediate
+S068,Git,78,57,76,42,97,14,Tools,Advanced
+S068,Power BI,53,86,72,22,68,3,Visualization,Intermediate
+S068,Cyber Security,48,79,75,149,73,27,Security,Beginner
+S068,NLP,64,46,54,133,62,27,AI,Intermediate
+S068,Tableau,60,87,65,174,97,6,Visualization,Intermediate
+S069,Statistics,45,91,99,49,67,23,Analytics,Beginner
+S069,Excel,60,55,97,18,84,9,Visualization,Intermediate
+S069,Power BI,71,69,57,118,88,17,Visualization,Intermediate
+S069,Computer Vision,57,75,81,59,62,24,AI,Intermediate
+S069,Cloud Computing,44,40,75,99,86,4,Cloud,Beginner
+S069,SQL,60,43,70,104,54,14,Database,Intermediate
+S069,Cyber Security,47,48,79,35,95,1,Security,Beginner
+S069,NLP,80,94,80,151,51,1,AI,Advanced
+S069,Python,52,58,53,61,78,6,Programming,Intermediate
+S069,Git,54,73,81,110,87,30,Tools,Intermediate
+S070,Linux,90,79,73,21,55,10,Tools,Advanced
+S070,Data Analysis,60,41,51,192,62,4,Analytics,Intermediate
+S070,SQL,90,45,86,78,58,5,Database,Advanced
+S070,Java,97,77,50,123,69,14,Programming,Advanced
+S070,Web Development,81,61,54,164,51,5,Development,Advanced
+S070,NLP,75,45,76,57,60,3,AI,Advanced
+S070,Cloud Computing,73,61,100,37,58,2,Cloud,Intermediate
+S070,Deep Learning,68,58,69,141,77,20,AI,Intermediate
+S070,Algorithms,47,82,92,87,76,6,Programming,Beginner
+S070,Python,46,40,76,190,59,30,Programming,Beginner
+S071,Data Analysis,98,50,55,192,52,9,Analytics,Advanced
+S071,Machine Learning,89,41,89,139,63,24,AI,Advanced
+S071,Statistics,51,86,70,145,60,4,Analytics,Intermediate
+S071,Cloud Computing,50,56,62,29,66,5,Cloud,Intermediate
+S071,Computer Vision,94,97,67,58,77,11,AI,Advanced
+S071,Java,77,49,62,88,50,5,Programming,Advanced
+S071,C++,53,40,50,147,100,29,Programming,Intermediate
+S071,Data Structures,52,90,85,100,62,22,Programming,Intermediate
+S071,Algorithms,65,82,63,99,90,28,Programming,Intermediate
+S071,Tableau,98,43,62,147,55,5,Visualization,Advanced
+S072,Algorithms,54,92,72,140,66,2,Programming,Intermediate
+S072,Tableau,83,90,79,139,57,17,Visualization,Advanced
+S072,Git,54,56,80,55,93,19,Tools,Intermediate
+S072,NLP,68,66,53,173,67,19,AI,Intermediate
+S072,Machine Learning,48,100,82,101,59,20,AI,Beginner
+S072,C++,77,74,98,87,64,9,Programming,Advanced
+S072,Data Structures,79,80,61,15,100,11,Programming,Advanced
+S072,Data Analysis,49,81,90,154,52,6,Analytics,Beginner
+S072,Deep Learning,56,100,98,178,99,11,AI,Intermediate
+S072,Power BI,78,66,91,189,79,3,Visualization,Advanced
+S073,Git,44,96,87,102,85,20,Tools,Beginner
+S073,Cyber Security,48,96,85,76,68,25,Security,Beginner
+S073,Cloud Computing,54,44,50,11,96,15,Cloud,Intermediate
+S073,Tableau,52,78,76,146,79,30,Visualization,Intermediate
+S073,SQL,74,82,50,163,97,19,Database,Intermediate
+S073,Java,46,62,80,173,59,1,Programming,Beginner
+S073,Machine Learning,67,56,90,78,79,18,AI,Intermediate
+S073,Deep Learning,58,95,94,133,99,30,AI,Intermediate
+S073,Power BI,54,66,59,179,61,8,Visualization,Intermediate
+S073,Excel,66,84,98,149,55,16,Visualization,Intermediate
+S074,SQL,88,66,80,81,63,17,Database,Advanced
+S074,Cyber Security,61,62,97,45,96,28,Security,Intermediate
+S074,Linux,63,56,87,85,74,29,Tools,Intermediate
+S074,Python,73,68,67,165,89,5,Programming,Intermediate
+S074,Data Analysis,46,96,53,111,66,10,Analytics,Beginner
+S074,Algorithms,84,67,96,138,62,10,Programming,Advanced
+S074,Git,65,94,64,155,58,9,Tools,Intermediate
+S074,Deep Learning,68,87,67,14,68,23,AI,Intermediate
+S074,Power BI,86,97,68,132,84,13,Visualization,Advanced
+S074,C++,46,95,65,11,90,7,Programming,Beginner
+S075,Computer Vision,95,86,87,42,75,29,AI,Advanced
+S075,Linux,49,60,90,62,55,10,Tools,Beginner
+S075,Deep Learning,40,47,86,108,65,24,AI,Beginner
+S075,Power BI,60,86,70,85,53,29,Visualization,Intermediate
+S075,C++,47,64,71,161,59,26,Programming,Beginner
+S075,Excel,86,82,86,161,70,20,Visualization,Advanced
+S075,Java,70,63,50,150,58,18,Programming,Intermediate
+S075,Algorithms,83,53,59,126,50,16,Programming,Advanced
+S075,Python,95,73,84,146,100,9,Programming,Advanced
+S075,Machine Learning,41,89,88,61,72,24,AI,Beginner
+S076,Data Analysis,56,87,74,124,52,15,Analytics,Intermediate
+S076,C++,57,45,78,45,99,30,Programming,Intermediate
+S076,Excel,55,94,73,42,65,13,Visualization,Intermediate
+S076,Web Development,56,93,99,173,52,14,Development,Intermediate
+S076,Power BI,75,65,59,162,55,5,Visualization,Advanced
+S076,Statistics,66,99,87,112,88,17,Analytics,Intermediate
+S076,Git,82,95,73,72,62,22,Tools,Advanced
+S076,Python,92,50,71,191,58,12,Programming,Advanced
+S076,Tableau,61,84,76,199,88,14,Visualization,Intermediate
+S076,Cyber Security,49,75,56,196,100,30,Security,Beginner
+S077,Cloud Computing,91,61,66,74,67,6,Cloud,Advanced
+S077,Data Structures,40,99,81,175,85,24,Programming,Beginner
+S077,Python,68,95,67,97,72,30,Programming,Intermediate
+S077,Cyber Security,93,60,69,173,83,5,Security,Advanced
+S077,Deep Learning,89,89,90,169,72,19,AI,Advanced
+S077,Data Analysis,63,65,92,85,50,28,Analytics,Intermediate
+S077,Excel,65,62,63,35,79,10,Visualization,Intermediate
+S077,NLP,78,72,59,132,95,13,AI,Advanced
+S077,Computer Vision,97,55,93,178,87,29,AI,Advanced
+S077,Web Development,44,83,68,99,83,25,Development,Beginner
+S078,Algorithms,66,83,76,151,92,10,Programming,Intermediate
+S078,Tableau,71,96,71,193,89,22,Visualization,Intermediate
+S078,Statistics,50,78,75,198,97,7,Analytics,Intermediate
+S078,Cloud Computing,79,99,67,133,55,7,Cloud,Advanced
+S078,SQL,62,99,73,156,94,10,Database,Intermediate
+S078,Data Analysis,78,41,59,13,74,3,Analytics,Advanced
+S078,Power BI,79,99,62,50,94,30,Visualization,Advanced
+S078,Cyber Security,81,41,79,117,63,7,Security,Advanced
+S078,Machine Learning,79,67,75,21,84,28,AI,Advanced
+S078,Linux,80,91,89,191,93,30,Tools,Advanced
+S079,Data Structures,65,44,54,137,54,7,Programming,Intermediate
+S079,Tableau,45,64,67,19,68,2,Visualization,Beginner
+S079,Statistics,48,96,88,72,100,14,Analytics,Beginner
+S079,Cyber Security,90,54,88,189,88,5,Security,Advanced
+S079,C++,73,53,98,154,63,30,Programming,Intermediate
+S079,Cloud Computing,76,90,66,196,55,10,Cloud,Advanced
+S079,NLP,94,59,85,99,63,8,AI,Advanced
+S079,Excel,51,54,73,124,88,20,Visualization,Intermediate
+S079,Java,67,95,88,175,92,29,Programming,Intermediate
+S079,Python,87,51,53,200,80,7,Programming,Advanced
+S080,Algorithms,75,99,51,161,92,11,Programming,Advanced
+S080,Java,53,46,83,73,55,27,Programming,Intermediate
+S080,Cloud Computing,71,79,76,128,53,27,Cloud,Intermediate
+S080,Tableau,92,93,98,104,88,13,Visualization,Advanced
+S080,Power BI,78,84,73,105,80,22,Visualization,Advanced
+S080,Linux,77,70,76,32,86,17,Tools,Advanced
+S080,Machine Learning,44,91,98,58,63,18,AI,Beginner
+S080,Excel,54,91,99,63,52,26,Visualization,Intermediate
+S080,C++,83,73,100,113,78,27,Programming,Advanced
+S080,NLP,77,46,86,30,56,24,AI,Advanced
+S081,Power BI,80,48,76,27,85,16,Visualization,Advanced
+S081,C++,82,100,71,17,82,15,Programming,Advanced
+S081,Computer Vision,98,76,59,189,97,9,AI,Advanced
+S081,NLP,61,45,50,106,63,29,AI,Intermediate
+S081,Cloud Computing,67,53,74,117,76,17,Cloud,Intermediate
+S081,Statistics,67,88,71,34,89,15,Analytics,Intermediate
+S081,Machine Learning,53,65,66,76,61,20,AI,Intermediate
+S081,Algorithms,50,85,67,29,81,11,Programming,Intermediate
+S081,Deep Learning,82,57,60,49,66,7,AI,Advanced
+S081,Java,71,92,96,81,72,2,Programming,Intermediate
+S082,Tableau,85,68,94,131,91,25,Visualization,Advanced
+S082,NLP,87,70,73,116,69,11,AI,Advanced
+S082,Machine Learning,84,100,61,109,59,8,AI,Advanced
+S082,Statistics,87,84,94,53,86,11,Analytics,Advanced
+S082,Cyber Security,46,64,84,36,95,3,Security,Beginner
+S082,Excel,71,82,63,171,95,23,Visualization,Intermediate
+S082,Java,91,43,98,152,86,26,Programming,Advanced
+S082,C++,64,53,84,37,67,7,Programming,Intermediate
+S082,SQL,59,57,86,117,76,17,Database,Intermediate
+S082,Cloud Computing,97,74,52,184,80,2,Cloud,Advanced
+S083,Machine Learning,97,46,50,135,63,25,AI,Advanced
+S083,Computer Vision,61,75,77,169,84,25,AI,Intermediate
+S083,Java,80,82,53,162,63,2,Programming,Advanced
+S083,SQL,62,87,62,116,68,22,Database,Intermediate
+S083,Algorithms,87,70,68,172,95,16,Programming,Advanced
+S083,Cyber Security,63,82,73,186,94,2,Security,Intermediate
+S083,Git,78,61,84,50,77,4,Tools,Advanced
+S083,Deep Learning,99,68,58,98,69,11,AI,Advanced
+S083,Power BI,80,68,73,96,99,2,Visualization,Advanced
+S083,Excel,46,97,84,135,88,8,Visualization,Beginner
+S084,Git,73,56,80,69,56,5,Tools,Intermediate
+S084,Python,93,40,77,146,94,11,Programming,Advanced
+S084,Power BI,60,90,60,64,90,21,Visualization,Intermediate
+S084,Cyber Security,61,51,66,128,54,14,Security,Intermediate
+S084,Data Structures,60,61,57,50,56,18,Programming,Intermediate
+S084,C++,57,89,88,39,90,5,Programming,Intermediate
+S084,SQL,72,97,89,198,77,21,Database,Intermediate
+S084,Deep Learning,71,55,65,45,87,24,AI,Intermediate
+S084,Web Development,78,41,97,171,50,20,Development,Advanced
+S084,Data Analysis,83,77,56,140,69,11,Analytics,Advanced
+S085,Tableau,50,42,100,33,54,4,Visualization,Intermediate
+S085,Cyber Security,45,66,97,71,94,3,Security,Beginner
+S085,Computer Vision,44,78,91,170,85,26,AI,Beginner
+S085,Machine Learning,87,66,70,94,69,5,AI,Advanced
+S085,Data Analysis,67,85,84,147,72,26,Analytics,Intermediate
+S085,C++,42,47,66,91,84,9,Programming,Beginner
+S085,Web Development,62,45,62,67,63,4,Development,Intermediate
+S085,Git,42,98,64,122,55,26,Tools,Beginner
+S085,Deep Learning,67,63,54,148,73,27,AI,Intermediate
+S085,NLP,46,56,71,131,59,27,AI,Beginner
+S086,Data Structures,50,94,77,185,65,18,Programming,Intermediate
+S086,Git,85,51,81,76,70,21,Tools,Advanced
+S086,Python,93,76,66,125,93,9,Programming,Advanced
+S086,Linux,69,46,82,83,72,2,Tools,Intermediate
+S086,Data Analysis,81,53,86,87,73,5,Analytics,Advanced
+S086,Statistics,95,40,52,16,89,22,Analytics,Advanced
+S086,Computer Vision,82,100,97,152,50,14,AI,Advanced
+S086,Cloud Computing,76,68,73,98,78,19,Cloud,Advanced
+S086,Deep Learning,51,44,54,120,62,11,AI,Intermediate
+S086,C++,46,70,78,23,69,1,Programming,Beginner
+S087,Computer Vision,68,99,99,171,91,21,AI,Intermediate
+S087,Machine Learning,48,48,84,159,56,16,AI,Beginner
+S087,Algorithms,71,71,73,13,78,21,Programming,Intermediate
+S087,Linux,57,52,86,142,52,25,Tools,Intermediate
+S087,Data Structures,71,44,54,178,75,23,Programming,Intermediate
+S087,Git,52,61,54,87,94,20,Tools,Intermediate
+S087,Tableau,65,81,76,126,81,2,Visualization,Intermediate
+S087,Python,50,80,58,13,98,4,Programming,Intermediate
+S087,C++,61,81,76,50,63,3,Programming,Intermediate
+S087,Web Development,72,41,83,147,54,15,Development,Intermediate
+S088,Excel,45,66,100,22,95,9,Visualization,Beginner
+S088,Cloud Computing,74,66,70,160,93,26,Cloud,Intermediate
+S088,SQL,76,96,82,35,95,5,Database,Advanced
+S088,NLP,67,67,88,146,76,24,AI,Intermediate
+S088,Power BI,61,92,71,143,94,20,Visualization,Intermediate
+S088,Python,58,85,77,128,91,19,Programming,Intermediate
+S088,Deep Learning,78,70,83,165,95,12,AI,Advanced
+S088,Java,94,99,89,197,99,30,Programming,Advanced
+S088,Machine Learning,79,92,63,47,92,28,AI,Advanced
+S088,Statistics,52,55,59,31,74,12,Analytics,Intermediate
+S089,Algorithms,58,94,82,87,98,5,Programming,Intermediate
+S089,Excel,54,61,57,74,94,11,Visualization,Intermediate
+S089,SQL,77,40,89,89,100,26,Database,Advanced
+S089,Computer Vision,73,46,84,86,57,21,AI,Intermediate
+S089,Power BI,70,56,65,83,100,11,Visualization,Intermediate
+S089,Statistics,55,71,90,63,55,7,Analytics,Intermediate
+S089,Tableau,90,78,71,175,92,22,Visualization,Advanced
+S089,Data Analysis,42,75,70,116,87,22,Analytics,Beginner
+S089,C++,86,64,98,150,75,21,Programming,Advanced
+S089,Python,93,55,85,114,76,12,Programming,Advanced
+S090,Git,44,91,78,194,86,22,Tools,Beginner
+S090,Web Development,78,58,81,156,90,22,Development,Advanced
+S090,Algorithms,45,43,89,107,51,17,Programming,Beginner
+S090,NLP,54,86,81,67,67,19,AI,Intermediate
+S090,Statistics,96,78,90,149,50,30,Analytics,Advanced
+S090,Data Analysis,92,52,84,46,67,9,Analytics,Advanced
+S090,Machine Learning,52,98,98,184,61,21,AI,Intermediate
+S090,Cyber Security,62,45,55,99,99,25,Security,Intermediate
+S090,Data Structures,83,54,73,176,74,19,Programming,Advanced
+S090,Deep Learning,64,64,56,20,85,3,AI,Intermediate
+S091,SQL,53,82,88,125,78,5,Database,Intermediate
+S091,Algorithms,60,88,77,120,81,1,Programming,Intermediate
+S091,Tableau,96,90,100,85,70,30,Visualization,Advanced
+S091,Python,79,61,81,183,56,15,Programming,Advanced
+S091,Linux,80,54,75,169,98,15,Tools,Advanced
+S091,Computer Vision,53,100,89,190,50,1,AI,Intermediate
+S091,Cyber Security,85,57,83,63,73,28,Security,Advanced
+S091,Cloud Computing,43,95,52,46,68,13,Cloud,Beginner
+S091,Java,90,52,78,173,53,23,Programming,Advanced
+S091,Machine Learning,59,97,92,162,84,21,AI,Intermediate
+S092,C++,42,88,59,76,95,28,Programming,Beginner
+S092,NLP,69,59,95,42,80,26,AI,Intermediate
+S092,Computer Vision,44,88,60,108,51,19,AI,Beginner
+S092,Linux,49,41,61,63,56,9,Tools,Beginner
+S092,Data Analysis,80,56,55,126,87,15,Analytics,Advanced
+S092,Deep Learning,44,52,73,65,79,15,AI,Beginner
+S092,Web Development,55,62,57,61,55,27,Development,Intermediate
+S092,Java,95,55,74,89,99,8,Programming,Advanced
+S092,Algorithms,41,86,58,141,100,5,Programming,Beginner
+S092,Excel,45,86,60,127,62,29,Visualization,Beginner
+S093,Deep Learning,51,86,59,98,53,6,AI,Intermediate
+S093,C++,81,54,52,125,84,12,Programming,Advanced
+S093,Excel,83,87,51,61,66,19,Visualization,Advanced
+S093,Linux,40,49,92,138,75,5,Tools,Beginner
+S093,Machine Learning,76,79,69,47,83,7,AI,Advanced
+S093,Python,56,75,92,102,77,18,Programming,Intermediate
+S093,Cloud Computing,96,71,55,181,70,29,Cloud,Advanced
+S093,Web Development,96,98,58,180,57,8,Development,Advanced
+S093,NLP,81,74,96,85,81,14,AI,Advanced
+S093,Tableau,63,44,100,121,100,24,Visualization,Intermediate
+S094,Statistics,48,75,71,150,82,6,Analytics,Beginner
+S094,Deep Learning,54,94,86,73,92,23,AI,Intermediate
+S094,Linux,68,49,88,10,100,12,Tools,Intermediate
+S094,Data Structures,43,92,67,51,50,29,Programming,Beginner
+S094,C++,63,98,82,182,50,1,Programming,Intermediate
+S094,Java,57,62,53,80,69,28,Programming,Intermediate
+S094,SQL,83,90,80,162,88,6,Database,Advanced
+S094,Computer Vision,40,73,72,37,68,13,AI,Beginner
+S094,Cloud Computing,58,50,72,42,80,6,Cloud,Intermediate
+S094,Data Analysis,44,66,62,83,77,5,Analytics,Beginner
+S095,Power BI,54,64,98,122,50,9,Visualization,Intermediate
+S095,Tableau,88,81,65,87,80,30,Visualization,Advanced
+S095,Python,41,78,71,158,68,16,Programming,Beginner
+S095,Cyber Security,43,87,74,136,77,18,Security,Beginner
+S095,Linux,41,65,96,28,100,26,Tools,Beginner
+S095,Web Development,84,64,92,157,84,13,Development,Advanced
+S095,C++,40,74,78,56,76,7,Programming,Beginner
+S095,Deep Learning,94,51,66,139,60,24,AI,Advanced
+S095,Excel,72,72,80,104,78,10,Visualization,Intermediate
+S095,Java,66,88,56,49,72,25,Programming,Intermediate
+S096,Machine Learning,84,76,92,143,92,28,AI,Advanced
+S096,Statistics,87,56,87,137,64,29,Analytics,Advanced
+S096,Web Development,78,99,62,44,67,15,Development,Advanced
+S096,Linux,82,66,65,112,75,28,Tools,Advanced
+S096,Algorithms,66,90,78,194,60,20,Programming,Intermediate
+S096,Cyber Security,89,69,55,102,66,14,Security,Advanced
+S096,SQL,44,60,82,86,95,26,Database,Beginner
+S096,Computer Vision,44,59,57,58,60,12,AI,Beginner
+S096,Cloud Computing,49,48,56,155,97,29,Cloud,Beginner
+S096,C++,81,81,82,148,66,24,Programming,Advanced
+S097,Java,47,43,89,199,91,29,Programming,Beginner
+S097,NLP,89,72,60,70,90,22,AI,Advanced
+S097,Deep Learning,50,51,93,76,57,4,AI,Intermediate
+S097,Computer Vision,77,47,99,26,55,1,AI,Advanced
+S097,Cloud Computing,50,58,59,17,64,29,Cloud,Intermediate
+S097,Data Structures,86,54,71,183,70,10,Programming,Advanced
+S097,Tableau,97,54,92,59,68,21,Visualization,Advanced
+S097,Statistics,43,72,67,89,57,10,Analytics,Beginner
+S097,Cyber Security,84,65,73,125,79,14,Security,Advanced
+S097,Linux,88,88,56,183,84,28,Tools,Advanced
+S098,Statistics,54,72,52,69,100,22,Analytics,Intermediate
+S098,Data Analysis,63,64,87,123,58,15,Analytics,Intermediate
+S098,C++,42,56,84,36,51,13,Programming,Beginner
+S098,Excel,91,80,59,40,77,25,Visualization,Advanced
+S098,Tableau,51,84,63,182,83,20,Visualization,Intermediate
+S098,Web Development,60,67,58,173,56,27,Development,Intermediate
+S098,SQL,98,99,52,23,74,8,Database,Advanced
+S098,NLP,59,81,92,111,73,8,AI,Intermediate
+S098,Algorithms,78,86,55,168,75,23,Programming,Advanced
+S098,Python,61,75,62,119,50,27,Programming,Intermediate
+S099,Power BI,87,60,71,153,94,14,Visualization,Advanced
+S099,Linux,65,100,70,66,75,3,Tools,Intermediate
+S099,Data Analysis,61,42,51,62,92,7,Analytics,Intermediate
+S099,NLP,54,59,76,144,69,2,AI,Intermediate
+S099,Tableau,68,74,56,121,52,6,Visualization,Intermediate
+S099,Computer Vision,57,62,58,196,98,18,AI,Intermediate
+S099,Algorithms,65,83,80,73,60,20,Programming,Intermediate
+S099,Python,45,56,72,18,61,10,Programming,Beginner
+S099,C++,94,43,67,105,50,13,Programming,Advanced
+S099,Statistics,99,77,61,141,96,2,Analytics,Advanced
+S100,Data Structures,65,78,94,86,70,22,Programming,Intermediate
+S100,Algorithms,97,63,81,43,50,14,Programming,Advanced
+S100,C++,82,89,62,174,59,14,Programming,Advanced
+S100,Computer Vision,49,94,63,147,92,2,AI,Beginner
+S100,Web Development,92,47,66,194,66,11,Development,Advanced
+S100,Deep Learning,71,74,73,119,93,17,AI,Intermediate
+S100,Machine Learning,51,91,60,65,94,7,AI,Intermediate
+S100,Python,64,61,87,112,90,10,Programming,Intermediate
+S100,Statistics,91,84,70,150,72,1,Analytics,Advanced
+S100,Power BI,61,84,85,61,93,25,Visualization,Intermediate
+S101,Web Development,52,60,96,114,81,4,Development,Intermediate
+S101,Git,65,100,95,53,64,2,Tools,Intermediate
+S101,Cloud Computing,46,46,89,195,80,2,Cloud,Beginner
+S101,Cyber Security,93,81,71,36,58,30,Security,Advanced
+S101,SQL,89,84,64,154,79,27,Database,Advanced
+S101,Data Structures,54,69,59,187,73,13,Programming,Intermediate
+S101,Algorithms,82,78,87,32,65,29,Programming,Advanced
+S101,Statistics,51,42,72,62,86,21,Analytics,Intermediate
+S101,Data Analysis,71,72,68,183,86,14,Analytics,Intermediate
+S101,Power BI,67,47,69,32,54,23,Visualization,Intermediate
+S102,SQL,74,48,79,134,86,19,Database,Intermediate
+S102,NLP,65,48,88,22,70,14,AI,Intermediate
+S102,Deep Learning,44,97,71,133,80,28,AI,Beginner
+S102,C++,42,46,96,59,69,16,Programming,Beginner
+S102,Excel,87,48,70,35,100,25,Visualization,Advanced
+S102,Machine Learning,65,83,86,72,70,1,AI,Intermediate
+S102,Java,93,67,63,170,78,12,Programming,Advanced
+S102,Statistics,51,90,53,21,97,6,Analytics,Intermediate
+S102,Power BI,78,94,50,63,67,14,Visualization,Advanced
+S102,Algorithms,83,55,62,110,78,22,Programming,Advanced
+S103,Data Analysis,78,73,69,21,51,19,Analytics,Advanced
+S103,Java,68,43,94,93,94,13,Programming,Intermediate
+S103,Machine Learning,71,92,97,200,58,29,AI,Intermediate
+S103,Tableau,87,93,81,190,72,16,Visualization,Advanced
+S103,C++,49,91,76,104,86,5,Programming,Beginner
+S103,Statistics,49,98,94,37,85,18,Analytics,Beginner
+S103,Python,99,59,51,195,94,26,Programming,Advanced
+S103,Linux,54,45,80,156,64,24,Tools,Intermediate
+S103,Cyber Security,65,97,69,119,67,10,Security,Intermediate
+S103,Cloud Computing,90,60,95,23,69,24,Cloud,Advanced
+S104,Machine Learning,73,81,80,16,70,7,AI,Intermediate
+S104,SQL,53,55,90,168,91,27,Database,Intermediate
+S104,Statistics,64,93,52,121,77,5,Analytics,Intermediate
+S104,Git,41,77,100,179,93,15,Tools,Beginner
+S104,Computer Vision,85,45,95,26,98,5,AI,Advanced
+S104,Excel,69,62,54,55,61,7,Visualization,Intermediate
+S104,Deep Learning,55,87,73,161,67,29,AI,Intermediate
+S104,Java,84,55,75,10,69,12,Programming,Advanced
+S104,Cyber Security,50,66,97,44,96,13,Security,Intermediate
+S104,Linux,91,77,76,126,60,4,Tools,Advanced
+S105,Algorithms,55,47,97,177,91,1,Programming,Intermediate
+S105,C++,85,90,73,84,58,7,Programming,Advanced
+S105,Cyber Security,61,63,87,62,50,24,Security,Intermediate
+S105,Deep Learning,87,95,50,25,78,18,AI,Advanced
+S105,Statistics,86,92,52,146,89,29,Analytics,Advanced
+S105,Power BI,60,41,96,123,82,5,Visualization,Intermediate
+S105,SQL,83,43,55,154,95,11,Database,Advanced
+S105,Python,57,69,98,18,88,1,Programming,Intermediate
+S105,Git,75,59,71,103,65,11,Tools,Advanced
+S105,Cloud Computing,96,79,93,73,51,19,Cloud,Advanced
+S106,SQL,69,82,99,129,91,28,Database,Intermediate
+S106,Git,93,76,54,43,55,6,Tools,Advanced
+S106,Linux,94,97,59,69,58,10,Tools,Advanced
+S106,Power BI,72,61,83,43,77,1,Visualization,Intermediate
+S106,Excel,80,51,51,179,61,27,Visualization,Advanced
+S106,Web Development,47,52,83,89,57,6,Development,Beginner
+S106,Cyber Security,48,67,70,98,100,24,Security,Beginner
+S106,NLP,77,92,73,167,90,9,AI,Advanced
+S106,Algorithms,41,80,61,129,95,17,Programming,Beginner
+S106,Tableau,96,66,51,163,51,14,Visualization,Advanced
+S107,NLP,63,81,55,71,50,2,AI,Intermediate
+S107,Power BI,78,52,76,182,100,2,Visualization,Advanced
+S107,SQL,69,55,64,69,79,24,Database,Intermediate
+S107,Algorithms,78,94,83,58,75,14,Programming,Advanced
+S107,Cloud Computing,72,99,89,46,56,19,Cloud,Intermediate
+S107,Data Structures,73,82,58,76,56,21,Programming,Intermediate
+S107,Deep Learning,79,49,75,82,68,20,AI,Advanced
+S107,Java,65,95,81,103,75,30,Programming,Intermediate
+S107,Excel,98,47,74,123,52,14,Visualization,Advanced
+S107,Computer Vision,71,63,64,144,54,23,AI,Intermediate
+S108,C++,63,40,74,198,74,14,Programming,Intermediate
+S108,Cloud Computing,45,44,50,23,76,18,Cloud,Beginner
+S108,Data Analysis,81,40,68,35,95,19,Analytics,Advanced
+S108,Algorithms,78,90,50,49,77,22,Programming,Advanced
+S108,Git,45,62,83,39,84,23,Tools,Beginner
+S108,NLP,61,84,65,180,53,23,AI,Intermediate
+S108,Web Development,71,60,86,105,61,21,Development,Intermediate
+S108,Computer Vision,60,88,93,75,95,24,AI,Intermediate
+S108,Excel,73,65,92,23,80,29,Visualization,Intermediate
+S108,Power BI,86,55,57,182,58,22,Visualization,Advanced
+S109,Data Structures,70,72,69,63,87,19,Programming,Intermediate
+S109,SQL,69,54,56,43,77,13,Database,Intermediate
+S109,Machine Learning,61,69,90,125,86,17,AI,Intermediate
+S109,Computer Vision,59,85,59,33,57,19,AI,Intermediate
+S109,Git,56,60,88,74,91,26,Tools,Intermediate
+S109,Power BI,63,62,59,71,73,27,Visualization,Intermediate
+S109,Linux,40,100,93,89,61,16,Tools,Beginner
+S109,C++,72,75,52,125,55,18,Programming,Intermediate
+S109,Tableau,47,61,55,99,99,30,Visualization,Beginner
+S109,Cloud Computing,61,57,69,51,74,19,Cloud,Intermediate
+S110,Tableau,64,51,99,18,68,14,Visualization,Intermediate
+S110,NLP,88,100,81,159,70,18,AI,Advanced
+S110,Statistics,68,90,99,96,56,14,Analytics,Intermediate
+S110,Machine Learning,69,95,93,133,81,22,AI,Intermediate
+S110,Web Development,78,85,73,169,67,13,Development,Advanced
+S110,C++,79,84,96,117,73,2,Programming,Advanced
+S110,SQL,88,100,85,44,91,25,Database,Advanced
+S110,Data Analysis,67,66,81,21,56,19,Analytics,Intermediate
+S110,Power BI,43,89,93,128,62,26,Visualization,Beginner
+S110,Java,83,72,89,182,65,23,Programming,Advanced
+S111,Data Structures,64,44,72,76,87,14,Programming,Intermediate
+S111,Tableau,93,73,66,88,55,26,Visualization,Advanced
+S111,Data Analysis,83,52,87,40,66,19,Analytics,Advanced
+S111,SQL,47,74,84,134,56,20,Database,Beginner
+S111,Machine Learning,81,73,54,150,58,20,AI,Advanced
+S111,Python,95,84,53,81,82,25,Programming,Advanced
+S111,Cyber Security,79,67,78,146,61,25,Security,Advanced
+S111,C++,93,51,53,23,55,2,Programming,Advanced
+S111,Deep Learning,46,76,81,41,82,3,AI,Beginner
+S111,Git,68,71,60,122,69,3,Tools,Intermediate
+S112,NLP,68,40,94,89,85,20,AI,Intermediate
+S112,Power BI,85,78,99,70,59,10,Visualization,Advanced
+S112,Linux,79,53,55,168,64,11,Tools,Advanced
+S112,Web Development,54,59,61,28,76,23,Development,Intermediate
+S112,Statistics,82,49,73,124,56,16,Analytics,Advanced
+S112,Machine Learning,46,54,88,26,53,17,AI,Beginner
+S112,Deep Learning,44,66,81,156,54,6,AI,Beginner
+S112,Cyber Security,99,93,100,79,87,3,Security,Advanced
+S112,Java,77,81,70,107,99,19,Programming,Advanced
+S112,Computer Vision,72,96,90,90,96,16,AI,Intermediate
+S113,Linux,46,98,62,82,86,21,Tools,Beginner
+S113,Data Analysis,69,51,50,32,68,16,Analytics,Intermediate
+S113,NLP,61,99,50,48,83,27,AI,Intermediate
+S113,C++,53,48,100,42,95,14,Programming,Intermediate
+S113,Java,90,47,68,114,62,18,Programming,Advanced
+S113,Tableau,63,96,71,184,67,6,Visualization,Intermediate
+S113,Statistics,86,81,91,48,81,13,Analytics,Advanced
+S113,Git,96,58,100,106,88,21,Tools,Advanced
+S113,Deep Learning,68,56,77,154,90,10,AI,Intermediate
+S113,Computer Vision,90,65,63,138,59,27,AI,Advanced
+S114,NLP,57,93,97,85,79,20,AI,Intermediate
+S114,Machine Learning,66,70,68,155,69,22,AI,Intermediate
+S114,Data Analysis,54,85,63,112,91,7,Analytics,Intermediate
+S114,Cyber Security,85,40,89,168,57,14,Security,Advanced
+S114,Excel,48,59,97,13,60,1,Visualization,Beginner
+S114,Cloud Computing,57,78,66,175,100,11,Cloud,Intermediate
+S114,Power BI,46,75,63,168,68,2,Visualization,Beginner
+S114,Git,88,48,72,139,57,20,Tools,Advanced
+S114,Statistics,89,98,80,16,76,1,Analytics,Advanced
+S114,SQL,65,71,80,168,93,15,Database,Intermediate
+S115,Power BI,69,98,68,94,100,8,Visualization,Intermediate
+S115,Computer Vision,87,46,89,72,64,28,AI,Advanced
+S115,Java,89,75,88,62,55,18,Programming,Advanced
+S115,Python,73,69,71,34,58,8,Programming,Intermediate
+S115,Linux,71,50,64,173,85,9,Tools,Intermediate
+S115,Cloud Computing,55,69,99,157,79,5,Cloud,Intermediate
+S115,C++,64,53,81,75,70,28,Programming,Intermediate
+S115,Deep Learning,90,60,98,50,91,26,AI,Advanced
+S115,SQL,93,95,89,68,92,17,Database,Advanced
+S115,Statistics,92,80,65,53,50,27,Analytics,Advanced
+S116,Tableau,93,91,66,25,97,25,Visualization,Advanced
+S116,Linux,61,72,74,46,79,22,Tools,Intermediate
+S116,Deep Learning,59,81,79,92,52,26,AI,Intermediate
+S116,Excel,59,89,68,29,69,16,Visualization,Intermediate
+S116,Cyber Security,49,82,67,67,89,7,Security,Beginner
+S116,Data Structures,41,51,67,128,95,18,Programming,Beginner
+S116,Computer Vision,62,89,73,64,88,20,AI,Intermediate
+S116,Machine Learning,79,54,94,17,63,28,AI,Advanced
+S116,C++,76,76,72,176,99,22,Programming,Advanced
+S116,Statistics,64,61,100,187,69,28,Analytics,Intermediate
+S117,Web Development,95,65,74,186,95,28,Development,Advanced
+S117,Statistics,42,63,61,142,86,15,Analytics,Beginner
+S117,Java,93,48,68,194,50,29,Programming,Advanced
+S117,C++,91,79,55,124,89,24,Programming,Advanced
+S117,Algorithms,90,65,67,41,81,18,Programming,Advanced
+S117,Machine Learning,51,79,72,83,73,26,AI,Intermediate
+S117,SQL,68,61,74,149,98,25,Database,Intermediate
+S117,Python,42,41,65,172,83,27,Programming,Beginner
+S117,Deep Learning,52,80,75,82,89,5,AI,Intermediate
+S117,Power BI,86,73,76,27,62,23,Visualization,Advanced
+S118,Power BI,70,52,88,169,52,23,Visualization,Intermediate
+S118,SQL,63,85,81,123,63,12,Database,Intermediate
+S118,Git,47,53,89,117,100,2,Tools,Beginner
+S118,NLP,55,96,51,141,97,3,AI,Intermediate
+S118,Data Structures,91,43,52,86,62,28,Programming,Advanced
+S118,C++,95,45,65,11,74,7,Programming,Advanced
+S118,Python,56,91,76,85,51,13,Programming,Intermediate
+S118,Tableau,93,49,53,152,63,27,Visualization,Advanced
+S118,Data Analysis,66,81,72,87,51,10,Analytics,Intermediate
+S118,Algorithms,70,57,50,112,72,25,Programming,Intermediate
+S119,Data Analysis,77,70,69,118,60,2,Analytics,Advanced
+S119,Git,83,53,60,147,63,13,Tools,Advanced
+S119,Deep Learning,66,83,57,19,88,27,AI,Intermediate
+S119,Data Structures,54,41,56,187,56,18,Programming,Intermediate
+S119,Machine Learning,99,48,79,15,75,12,AI,Advanced
+S119,SQL,40,79,94,80,76,1,Database,Beginner
+S119,Excel,84,65,70,159,60,26,Visualization,Advanced
+S119,Tableau,69,46,69,101,52,3,Visualization,Intermediate
+S119,Cloud Computing,95,91,55,172,79,3,Cloud,Advanced
+S119,C++,81,94,66,182,54,12,Programming,Advanced
+S120,Data Structures,51,64,91,159,97,5,Programming,Intermediate
+S120,C++,71,52,95,183,74,4,Programming,Intermediate
+S120,Statistics,92,97,60,37,92,26,Analytics,Advanced
+S120,Tableau,98,89,87,135,85,20,Visualization,Advanced
+S120,Deep Learning,90,73,90,69,72,20,AI,Advanced
+S120,Java,89,61,90,198,50,7,Programming,Advanced
+S120,Excel,91,56,61,55,71,2,Visualization,Advanced
+S120,Linux,47,73,65,50,57,17,Tools,Beginner
+S120,Cloud Computing,77,100,64,89,82,21,Cloud,Advanced
+S120,Web Development,89,80,86,101,63,18,Development,Advanced
+S121,Web Development,81,74,66,51,68,12,Development,Advanced
+S121,Python,41,97,57,46,60,23,Programming,Beginner
+S121,Git,51,80,87,95,79,25,Tools,Intermediate
+S121,Cyber Security,61,92,91,139,87,30,Security,Intermediate
+S121,Java,50,45,80,124,75,15,Programming,Intermediate
+S121,SQL,52,57,68,126,91,17,Database,Intermediate
+S121,Data Analysis,42,72,68,72,95,20,Analytics,Beginner
+S121,Deep Learning,46,61,72,43,98,23,AI,Beginner
+S121,Machine Learning,80,97,60,145,70,10,AI,Advanced
+S121,Linux,98,41,77,59,57,7,Tools,Advanced
+S122,Tableau,67,58,72,157,62,4,Visualization,Intermediate
+S122,Algorithms,93,96,67,14,89,22,Programming,Advanced
+S122,Excel,67,62,86,174,72,30,Visualization,Intermediate
+S122,Data Structures,81,85,67,96,65,16,Programming,Advanced
+S122,Python,75,73,58,10,88,12,Programming,Advanced
+S122,Cloud Computing,55,94,59,180,62,8,Cloud,Intermediate
+S122,Git,44,51,99,71,76,2,Tools,Beginner
+S122,Deep Learning,58,70,84,82,52,19,AI,Intermediate
+S122,Linux,76,78,55,65,72,30,Tools,Advanced
+S122,C++,73,72,90,90,80,30,Programming,Intermediate
+S123,Computer Vision,40,54,78,47,86,4,AI,Beginner
+S123,Git,57,84,88,74,81,24,Tools,Intermediate
+S123,SQL,54,42,96,26,55,1,Database,Intermediate
+S123,Linux,92,63,67,95,78,15,Tools,Advanced
+S123,Deep Learning,49,42,60,51,53,15,AI,Beginner
+S123,Algorithms,74,77,86,129,83,29,Programming,Intermediate
+S123,Machine Learning,70,63,89,127,76,29,AI,Intermediate
+S123,Web Development,56,81,82,164,77,14,Development,Intermediate
+S123,NLP,54,43,60,200,87,13,AI,Intermediate
+S123,Cyber Security,65,45,85,131,85,17,Security,Intermediate
+S124,Python,91,67,65,157,58,25,Programming,Advanced
+S124,Web Development,48,64,51,168,92,9,Development,Beginner
+S124,Linux,69,52,66,154,95,16,Tools,Intermediate
+S124,Deep Learning,57,50,84,69,86,10,AI,Intermediate
+S124,Git,62,60,97,132,72,24,Tools,Intermediate
+S124,Data Structures,55,83,61,136,97,22,Programming,Intermediate
+S124,SQL,79,93,97,176,83,5,Database,Advanced
+S124,Cyber Security,40,58,51,162,63,7,Security,Beginner
+S124,Data Analysis,96,91,71,15,50,3,Analytics,Advanced
+S124,Java,51,57,52,69,80,11,Programming,Intermediate
+S125,NLP,40,73,98,192,94,3,AI,Beginner
+S125,Data Structures,51,66,92,166,80,19,Programming,Intermediate
+S125,Web Development,74,71,69,19,81,5,Development,Intermediate
+S125,C++,51,77,50,160,54,29,Programming,Intermediate
+S125,Computer Vision,71,46,57,106,99,25,AI,Intermediate
+S125,Excel,48,72,75,18,80,11,Visualization,Beginner
+S125,Power BI,96,44,59,140,91,1,Visualization,Advanced
+S125,Cloud Computing,98,71,98,30,54,9,Cloud,Advanced
+S125,Data Analysis,73,51,50,10,65,19,Analytics,Intermediate
+S125,Java,93,66,92,30,75,26,Programming,Advanced
+S126,Git,95,63,79,174,89,9,Tools,Advanced
+S126,Excel,91,69,67,122,59,7,Visualization,Advanced
+S126,Cyber Security,40,52,97,11,97,22,Security,Beginner
+S126,Deep Learning,41,83,59,116,65,12,AI,Beginner
+S126,Cloud Computing,99,52,69,27,68,28,Cloud,Advanced
+S126,Tableau,92,79,93,104,66,19,Visualization,Advanced
+S126,Power BI,42,66,62,198,52,22,Visualization,Beginner
+S126,SQL,42,40,87,144,73,6,Database,Beginner
+S126,Linux,82,83,75,162,58,7,Tools,Advanced
+S126,Computer Vision,59,56,94,190,98,13,AI,Intermediate
+S127,Algorithms,84,65,62,150,71,5,Programming,Advanced
+S127,C++,94,86,55,41,88,30,Programming,Advanced
+S127,Java,54,65,70,56,85,2,Programming,Intermediate
+S127,Statistics,82,79,78,173,64,19,Analytics,Advanced
+S127,Data Analysis,93,50,67,155,52,19,Analytics,Advanced
+S127,Data Structures,89,97,64,169,64,7,Programming,Advanced
+S127,Web Development,76,85,77,25,96,15,Development,Advanced
+S127,NLP,42,94,95,187,99,12,AI,Beginner
+S127,SQL,49,54,91,121,75,16,Database,Beginner
+S127,Git,49,42,84,66,97,27,Tools,Beginner
+S128,Tableau,81,48,74,148,77,8,Visualization,Advanced
+S128,Data Analysis,43,94,95,34,87,12,Analytics,Beginner
+S128,Linux,57,89,79,40,93,1,Tools,Intermediate
+S128,SQL,40,45,96,99,66,6,Database,Beginner
+S128,Web Development,51,52,65,53,81,25,Development,Intermediate
+S128,NLP,83,91,81,162,87,3,AI,Advanced
+S128,Algorithms,74,78,52,138,61,7,Programming,Intermediate
+S128,Cloud Computing,90,40,50,125,70,18,Cloud,Advanced
+S128,Excel,54,62,77,18,86,10,Visualization,Intermediate
+S128,Cyber Security,99,90,93,178,63,1,Security,Advanced
+S129,NLP,67,72,50,117,94,26,AI,Intermediate
+S129,SQL,50,62,88,90,59,6,Database,Intermediate
+S129,C++,51,61,66,34,64,16,Programming,Intermediate
+S129,Cloud Computing,64,74,79,169,96,24,Cloud,Intermediate
+S129,Java,76,59,69,185,58,3,Programming,Advanced
+S129,Excel,42,99,74,179,52,1,Visualization,Beginner
+S129,Linux,53,86,54,157,94,27,Tools,Intermediate
+S129,Tableau,99,83,62,60,50,28,Visualization,Advanced
+S129,Power BI,72,97,56,56,86,6,Visualization,Intermediate
+S129,Python,65,99,94,196,64,16,Programming,Intermediate
+S130,C++,91,42,62,43,64,6,Programming,Advanced
+S130,Data Analysis,61,82,77,38,67,30,Analytics,Intermediate
+S130,SQL,79,80,99,199,82,11,Database,Advanced
+S130,Web Development,98,95,52,60,85,30,Development,Advanced
+S130,Computer Vision,73,59,70,86,63,27,AI,Intermediate
+S130,Git,56,49,84,95,58,27,Tools,Intermediate
+S130,Statistics,94,48,97,53,76,19,Analytics,Advanced
+S130,Linux,72,49,67,37,86,30,Tools,Intermediate
+S130,Java,81,52,97,53,72,1,Programming,Advanced
+S130,Cyber Security,66,100,84,67,70,17,Security,Intermediate
+S131,Cyber Security,98,78,98,11,95,22,Security,Advanced
+S131,Excel,71,48,57,112,72,20,Visualization,Intermediate
+S131,Algorithms,56,91,69,74,85,22,Programming,Intermediate
+S131,Machine Learning,80,91,76,104,85,15,AI,Advanced
+S131,Data Analysis,42,91,57,161,84,7,Analytics,Beginner
+S131,Python,83,94,82,41,54,10,Programming,Advanced
+S131,Git,65,47,52,193,56,8,Tools,Intermediate
+S131,Computer Vision,43,81,78,73,63,6,AI,Beginner
+S131,Deep Learning,54,42,77,143,60,18,AI,Intermediate
+S131,Power BI,86,49,97,51,66,11,Visualization,Advanced
+S132,C++,50,42,56,16,67,5,Programming,Intermediate
+S132,Deep Learning,55,62,57,66,94,14,AI,Intermediate
+S132,Data Structures,64,50,72,185,94,4,Programming,Intermediate
+S132,NLP,76,68,53,113,76,13,AI,Advanced
+S132,Python,96,93,53,12,53,13,Programming,Advanced
+S132,Algorithms,96,97,61,115,79,2,Programming,Advanced
+S132,Computer Vision,82,77,90,119,67,25,AI,Advanced
+S132,Excel,74,59,59,96,69,19,Visualization,Intermediate
+S132,Cloud Computing,56,96,88,190,65,7,Cloud,Intermediate
+S132,Statistics,98,52,92,130,78,4,Analytics,Advanced
+S133,Statistics,51,82,66,64,59,15,Analytics,Intermediate
+S133,Machine Learning,83,68,59,72,84,17,AI,Advanced
+S133,Cloud Computing,44,93,79,78,77,22,Cloud,Beginner
+S133,C++,99,47,95,12,57,1,Programming,Advanced
+S133,Git,71,42,56,30,70,11,Tools,Intermediate
+S133,NLP,92,93,57,130,51,26,AI,Advanced
+S133,Web Development,85,84,73,28,69,20,Development,Advanced
+S133,Data Structures,86,78,59,173,96,25,Programming,Advanced
+S133,Excel,96,99,100,62,53,4,Visualization,Advanced
+S133,Cyber Security,51,87,88,129,86,25,Security,Intermediate
+S134,C++,55,55,89,92,56,12,Programming,Intermediate
+S134,Computer Vision,44,83,77,188,88,19,AI,Beginner
+S134,SQL,75,72,95,38,75,13,Database,Advanced
+S134,Python,52,56,90,186,79,21,Programming,Intermediate
+S134,Machine Learning,59,43,76,185,54,3,AI,Intermediate
+S134,Statistics,54,45,82,123,74,2,Analytics,Intermediate
+S134,Power BI,82,84,94,151,74,9,Visualization,Advanced
+S134,Data Structures,64,93,71,107,83,29,Programming,Intermediate
+S134,Web Development,40,88,90,69,75,6,Development,Beginner
+S134,Data Analysis,51,49,82,21,56,3,Analytics,Intermediate
+S135,Excel,58,59,82,106,58,19,Visualization,Intermediate
+S135,Web Development,55,47,74,180,95,17,Development,Intermediate
+S135,Cyber Security,79,97,93,195,78,11,Security,Advanced
+S135,Java,85,100,69,11,51,10,Programming,Advanced
+S135,Data Structures,74,64,94,112,90,14,Programming,Intermediate
+S135,C++,97,53,76,16,72,26,Programming,Advanced
+S135,Linux,51,56,53,13,87,16,Tools,Intermediate
+S135,Python,80,93,95,12,63,10,Programming,Advanced
+S135,Deep Learning,42,46,97,140,56,15,AI,Beginner
+S135,Data Analysis,56,54,63,151,84,12,Analytics,Intermediate
+S136,SQL,97,61,62,61,97,22,Database,Advanced
+S136,Power BI,47,45,84,75,78,26,Visualization,Beginner
+S136,Statistics,43,73,67,29,95,14,Analytics,Beginner
+S136,Computer Vision,85,75,59,70,84,9,AI,Advanced
+S136,Cyber Security,83,59,70,10,84,16,Security,Advanced
+S136,Java,82,56,79,101,89,27,Programming,Advanced
+S136,Cloud Computing,48,53,89,182,56,29,Cloud,Beginner
+S136,Data Analysis,87,84,98,99,77,17,Analytics,Advanced
+S136,Algorithms,53,56,88,52,99,12,Programming,Intermediate
+S136,C++,58,48,54,87,79,5,Programming,Intermediate
+S137,C++,86,79,81,176,76,24,Programming,Advanced
+S137,Git,60,56,60,185,97,12,Tools,Intermediate
+S137,Computer Vision,62,83,59,155,91,27,AI,Intermediate
+S137,Tableau,61,71,75,137,96,25,Visualization,Intermediate
+S137,Data Analysis,90,42,91,125,74,6,Analytics,Advanced
+S137,Cyber Security,82,54,50,42,75,20,Security,Advanced
+S137,Algorithms,42,49,91,126,87,6,Programming,Beginner
+S137,Cloud Computing,90,68,73,155,60,29,Cloud,Advanced
+S137,SQL,45,94,86,172,53,5,Database,Beginner
+S137,Python,79,59,89,41,73,5,Programming,Advanced
+S138,Tableau,82,80,68,41,83,2,Visualization,Advanced
+S138,Git,98,51,85,143,73,17,Tools,Advanced
+S138,Cyber Security,72,81,71,94,56,24,Security,Intermediate
+S138,Algorithms,59,88,78,109,90,13,Programming,Intermediate
+S138,Excel,73,63,79,152,69,9,Visualization,Intermediate
+S138,Statistics,69,43,86,69,81,17,Analytics,Intermediate
+S138,Cloud Computing,90,89,94,165,60,20,Cloud,Advanced
+S138,NLP,69,51,95,53,99,5,AI,Intermediate
+S138,SQL,81,64,71,10,53,27,Database,Advanced
+S138,Linux,53,98,71,78,79,7,Tools,Intermediate
+S139,Excel,95,98,78,18,50,13,Visualization,Advanced
+S139,Web Development,43,74,86,133,69,22,Development,Beginner
+S139,Cloud Computing,58,68,68,127,64,12,Cloud,Intermediate
+S139,Machine Learning,75,84,79,159,69,18,AI,Advanced
+S139,Python,91,63,97,200,61,3,Programming,Advanced
+S139,Linux,68,74,66,152,72,10,Tools,Intermediate
+S139,Computer Vision,94,46,71,172,99,26,AI,Advanced
+S139,NLP,77,72,57,171,86,10,AI,Advanced
+S139,Algorithms,88,71,78,15,51,28,Programming,Advanced
+S139,Git,85,84,88,195,84,17,Tools,Advanced
+S140,C++,53,54,62,82,84,29,Programming,Intermediate
+S140,Machine Learning,57,97,71,13,97,26,AI,Intermediate
+S140,Deep Learning,64,82,93,62,53,28,AI,Intermediate
+S140,Data Structures,96,97,76,155,85,4,Programming,Advanced
+S140,Git,83,50,99,24,86,12,Tools,Advanced
+S140,Power BI,48,83,53,179,64,24,Visualization,Beginner
+S140,Cyber Security,89,87,99,15,94,17,Security,Advanced
+S140,Data Analysis,56,59,93,107,82,2,Analytics,Intermediate
+S140,Web Development,69,92,91,99,85,20,Development,Intermediate
+S140,Linux,80,76,51,197,81,24,Tools,Advanced
+S141,Python,93,75,84,118,90,13,Programming,Advanced
+S141,Excel,97,67,89,31,72,1,Visualization,Advanced
+S141,C++,88,71,83,100,89,16,Programming,Advanced
+S141,Web Development,59,48,96,94,53,2,Development,Intermediate
+S141,Deep Learning,61,57,75,49,61,19,AI,Intermediate
+S141,Machine Learning,68,62,52,26,68,6,AI,Intermediate
+S141,Cloud Computing,71,99,99,44,95,14,Cloud,Intermediate
+S141,NLP,68,77,78,64,76,5,AI,Intermediate
+S141,Java,91,50,60,60,58,12,Programming,Advanced
+S141,Git,85,65,51,36,86,14,Tools,Advanced
+S142,Tableau,86,61,94,53,93,9,Visualization,Advanced
+S142,Linux,58,54,72,179,76,8,Tools,Intermediate
+S142,Python,97,48,56,182,91,7,Programming,Advanced
+S142,SQL,83,52,83,49,61,3,Database,Advanced
+S142,Git,87,99,100,193,77,25,Tools,Advanced
+S142,Machine Learning,81,59,75,48,83,3,AI,Advanced
+S142,Web Development,49,44,52,95,92,19,Development,Beginner
+S142,NLP,74,84,57,37,86,4,AI,Intermediate
+S142,C++,61,71,58,128,54,8,Programming,Intermediate
+S142,Statistics,73,83,75,45,74,22,Analytics,Intermediate
+S143,Statistics,44,71,88,178,67,22,Analytics,Beginner
+S143,Linux,51,73,84,114,61,17,Tools,Intermediate
+S143,C++,78,47,58,27,82,7,Programming,Advanced
+S143,Algorithms,75,69,71,79,60,22,Programming,Advanced
+S143,Computer Vision,51,45,92,92,95,3,AI,Intermediate
+S143,Python,42,41,51,182,52,27,Programming,Beginner
+S143,Cloud Computing,65,72,65,169,98,29,Cloud,Intermediate
+S143,Tableau,90,60,65,14,92,10,Visualization,Advanced
+S143,Machine Learning,52,86,78,73,59,18,AI,Intermediate
+S143,Deep Learning,53,56,82,47,71,1,AI,Intermediate
+S144,Linux,93,77,75,163,82,19,Tools,Advanced
+S144,Cloud Computing,91,66,54,47,50,1,Cloud,Advanced
+S144,Statistics,76,99,67,100,75,9,Analytics,Advanced
+S144,Machine Learning,64,84,77,175,65,29,AI,Intermediate
+S144,Python,86,68,94,19,69,12,Programming,Advanced
+S144,Cyber Security,76,54,60,117,98,28,Security,Advanced
+S144,Deep Learning,51,68,88,131,59,28,AI,Intermediate
+S144,Tableau,90,93,56,185,54,28,Visualization,Advanced
+S144,Git,83,64,77,118,70,7,Tools,Advanced
+S144,Data Analysis,60,87,60,149,70,30,Analytics,Intermediate
+S145,Tableau,91,64,66,90,66,30,Visualization,Advanced
+S145,Statistics,96,79,99,74,67,11,Analytics,Advanced
+S145,Git,86,86,80,149,81,13,Tools,Advanced
+S145,NLP,52,40,76,123,85,24,AI,Intermediate
+S145,C++,60,58,77,71,95,28,Programming,Intermediate
+S145,Machine Learning,55,59,88,67,79,11,AI,Intermediate
+S145,Linux,66,100,79,146,90,20,Tools,Intermediate
+S145,Python,99,82,94,44,87,10,Programming,Advanced
+S145,Data Structures,49,81,60,33,77,6,Programming,Beginner
+S145,Data Analysis,87,92,72,198,78,12,Analytics,Advanced
+S146,Cyber Security,74,79,82,76,98,5,Security,Intermediate
+S146,Power BI,99,46,87,34,88,10,Visualization,Advanced
+S146,Cloud Computing,46,68,56,43,87,7,Cloud,Beginner
+S146,Data Structures,60,70,73,59,53,3,Programming,Intermediate
+S146,Web Development,87,92,74,158,100,21,Development,Advanced
+S146,NLP,68,77,83,88,99,14,AI,Intermediate
+S146,Computer Vision,75,98,66,86,68,11,AI,Advanced
+S146,Java,63,68,78,20,95,30,Programming,Intermediate
+S146,Machine Learning,51,99,52,73,57,23,AI,Intermediate
+S146,Linux,64,96,70,83,67,28,Tools,Intermediate
+S147,Statistics,89,90,84,168,72,20,Analytics,Advanced
+S147,Linux,53,68,89,28,62,14,Tools,Intermediate
+S147,Python,93,69,74,56,56,11,Programming,Advanced
+S147,Web Development,90,89,98,177,75,6,Development,Advanced
+S147,Data Structures,84,57,78,52,89,13,Programming,Advanced
+S147,Computer Vision,89,83,87,29,64,18,AI,Advanced
+S147,C++,78,93,55,63,61,26,Programming,Advanced
+S147,Machine Learning,66,89,57,42,55,20,AI,Intermediate
+S147,Cyber Security,63,62,73,197,96,1,Security,Intermediate
+S147,Excel,84,94,72,84,86,15,Visualization,Advanced
+S148,Java,72,93,69,181,52,25,Programming,Intermediate
+S148,SQL,47,82,90,103,78,11,Database,Beginner
+S148,C++,42,80,87,90,98,2,Programming,Beginner
+S148,Git,57,77,76,85,54,22,Tools,Intermediate
+S148,Data Analysis,62,40,92,167,87,26,Analytics,Intermediate
+S148,Statistics,41,69,66,179,66,27,Analytics,Beginner
+S148,Cyber Security,57,98,50,165,75,25,Security,Intermediate
+S148,NLP,77,62,64,189,84,23,AI,Advanced
+S148,Computer Vision,49,52,94,118,55,5,AI,Beginner
+S148,Tableau,88,83,66,119,57,5,Visualization,Advanced
+S149,Machine Learning,91,95,92,129,70,19,AI,Advanced
+S149,Deep Learning,78,64,66,47,58,15,AI,Advanced
+S149,Web Development,58,68,68,139,60,26,Development,Intermediate
+S149,Excel,93,89,57,76,62,16,Visualization,Advanced
+S149,Cloud Computing,67,65,53,147,66,29,Cloud,Intermediate
+S149,Data Structures,88,53,100,77,79,8,Programming,Advanced
+S149,NLP,86,99,60,67,72,2,AI,Advanced
+S149,Tableau,78,100,59,155,67,26,Visualization,Advanced
+S149,Power BI,45,52,60,188,63,1,Visualization,Beginner
+S149,Cyber Security,61,87,79,183,75,30,Security,Intermediate
+S150,Deep Learning,52,50,72,146,88,30,AI,Intermediate
+S150,Cyber Security,57,73,74,143,95,21,Security,Intermediate
+S150,Statistics,80,57,95,85,87,10,Analytics,Advanced
+S150,Power BI,51,71,89,74,94,25,Visualization,Intermediate
+S150,NLP,83,58,51,107,86,13,AI,Advanced
+S150,Machine Learning,63,98,88,96,68,24,AI,Intermediate
+S150,C++,77,81,67,162,82,8,Programming,Advanced
+S150,Linux,63,92,66,22,68,29,Tools,Intermediate
+S150,Web Development,47,92,62,111,87,26,Development,Beginner
+S150,Data Structures,44,59,80,163,63,5,Programming,Beginner
+S151,Cloud Computing,79,62,66,110,84,3,Cloud,Advanced
+S151,C++,54,80,100,124,76,8,Programming,Intermediate
+S151,Computer Vision,65,45,63,25,88,1,AI,Intermediate
+S151,NLP,49,99,69,39,64,24,AI,Beginner
+S151,SQL,81,92,89,79,58,15,Database,Advanced
+S151,Git,58,41,77,13,79,4,Tools,Intermediate
+S151,Data Analysis,70,42,67,46,83,14,Analytics,Intermediate
+S151,Web Development,42,59,51,77,64,9,Development,Beginner
+S151,Deep Learning,91,54,84,62,90,3,AI,Advanced
+S151,Excel,76,65,57,70,52,8,Visualization,Advanced
+S152,Cloud Computing,59,54,78,59,90,30,Cloud,Intermediate
+S152,C++,48,56,91,105,61,14,Programming,Beginner
+S152,Data Structures,78,80,77,15,98,26,Programming,Advanced
+S152,Data Analysis,69,86,74,152,94,25,Analytics,Intermediate
+S152,Tableau,92,58,64,111,70,14,Visualization,Advanced
+S152,SQL,63,86,82,117,89,13,Database,Intermediate
+S152,Machine Learning,62,68,69,67,82,15,AI,Intermediate
+S152,Power BI,90,56,96,190,80,14,Visualization,Advanced
+S152,Computer Vision,57,53,92,64,81,27,AI,Intermediate
+S152,Excel,53,65,72,15,89,7,Visualization,Intermediate
+S153,Computer Vision,49,54,75,73,92,12,AI,Beginner
+S153,Power BI,94,79,78,16,64,30,Visualization,Advanced
+S153,Deep Learning,46,49,76,42,78,22,AI,Beginner
+S153,Excel,87,91,84,139,84,9,Visualization,Advanced
+S153,C++,77,90,90,76,62,8,Programming,Advanced
+S153,Web Development,93,61,83,169,63,4,Development,Advanced
+S153,Cyber Security,63,94,61,51,88,18,Security,Intermediate
+S153,SQL,97,73,98,92,65,15,Database,Advanced
+S153,Statistics,84,45,51,119,55,1,Analytics,Advanced
+S153,Linux,88,68,59,13,81,3,Tools,Advanced
+S154,Statistics,93,48,82,82,82,29,Analytics,Advanced
+S154,NLP,51,67,83,34,90,1,AI,Intermediate
+S154,Web Development,85,64,71,97,99,28,Development,Advanced
+S154,Tableau,67,95,51,146,58,8,Visualization,Intermediate
+S154,Cloud Computing,48,46,96,27,50,27,Cloud,Beginner
+S154,Data Analysis,75,63,90,40,97,7,Analytics,Advanced
+S154,Java,85,60,77,108,64,26,Programming,Advanced
+S154,SQL,72,97,79,53,59,19,Database,Intermediate
+S154,Algorithms,73,94,91,190,70,18,Programming,Intermediate
+S154,Excel,77,87,58,13,83,19,Visualization,Advanced
+S155,Web Development,85,63,84,55,64,19,Development,Advanced
+S155,Cloud Computing,79,65,65,73,100,15,Cloud,Advanced
+S155,Excel,47,49,61,10,97,5,Visualization,Beginner
+S155,Data Analysis,49,77,54,66,64,24,Analytics,Beginner
+S155,Power BI,70,79,73,84,81,25,Visualization,Intermediate
+S155,Python,83,53,72,105,78,23,Programming,Advanced
+S155,Computer Vision,73,80,98,51,77,25,AI,Intermediate
+S155,Machine Learning,67,96,100,136,83,15,AI,Intermediate
+S155,SQL,59,40,96,33,92,16,Database,Intermediate
+S155,Data Structures,59,47,77,148,51,20,Programming,Intermediate
+S156,Tableau,71,41,78,99,74,29,Visualization,Intermediate
+S156,Deep Learning,79,75,61,79,67,19,AI,Advanced
+S156,Git,53,69,62,103,67,13,Tools,Intermediate
+S156,NLP,51,50,82,11,99,8,AI,Intermediate
+S156,Excel,62,51,74,72,53,7,Visualization,Intermediate
+S156,Algorithms,78,84,70,126,82,21,Programming,Advanced
+S156,Linux,62,74,76,87,57,1,Tools,Intermediate
+S156,C++,65,60,53,133,99,15,Programming,Intermediate
+S156,Machine Learning,56,81,63,145,60,27,AI,Intermediate
+S156,Data Analysis,99,79,84,76,94,29,Analytics,Advanced
+S157,Machine Learning,57,49,83,86,70,22,AI,Intermediate
+S157,Git,62,69,73,105,67,19,Tools,Intermediate
+S157,Computer Vision,56,45,87,12,69,24,AI,Intermediate
+S157,C++,69,55,69,16,50,4,Programming,Intermediate
+S157,Java,88,46,85,37,100,15,Programming,Advanced
+S157,Data Analysis,60,67,71,160,82,15,Analytics,Intermediate
+S157,NLP,44,71,80,43,86,27,AI,Beginner
+S157,Power BI,51,44,75,138,81,10,Visualization,Intermediate
+S157,Excel,53,100,56,12,67,23,Visualization,Intermediate
+S157,Algorithms,58,57,86,131,77,24,Programming,Intermediate
+S158,Tableau,49,89,98,133,96,24,Visualization,Beginner
+S158,SQL,71,84,80,75,93,19,Database,Intermediate
+S158,Cyber Security,61,79,94,197,87,9,Security,Intermediate
+S158,Linux,68,80,92,80,85,6,Tools,Intermediate
+S158,Git,67,60,80,152,75,20,Tools,Intermediate
+S158,Deep Learning,54,63,78,149,83,10,AI,Intermediate
+S158,Computer Vision,84,89,84,122,50,12,AI,Advanced
+S158,Machine Learning,82,88,80,76,73,13,AI,Advanced
+S158,Statistics,77,55,96,41,89,5,Analytics,Advanced
+S158,Java,72,72,55,151,60,15,Programming,Intermediate
+S159,Cloud Computing,83,83,86,59,81,21,Cloud,Advanced
+S159,Java,53,40,98,105,97,13,Programming,Intermediate
+S159,Machine Learning,93,50,68,29,52,17,AI,Advanced
+S159,Data Analysis,53,86,74,73,85,30,Analytics,Intermediate
+S159,Algorithms,89,82,83,23,97,15,Programming,Advanced
+S159,Python,43,97,54,153,57,18,Programming,Beginner
+S159,Tableau,78,93,81,171,71,7,Visualization,Advanced
+S159,Power BI,46,51,83,76,85,7,Visualization,Beginner
+S159,Web Development,75,86,64,188,53,19,Development,Advanced
+S159,Data Structures,76,67,89,129,66,7,Programming,Advanced
+S160,Linux,46,81,84,132,99,19,Tools,Beginner
+S160,C++,74,93,84,87,57,2,Programming,Intermediate
+S160,Cyber Security,67,95,71,191,84,2,Security,Intermediate
+S160,Computer Vision,80,89,73,60,50,11,AI,Advanced
+S160,Java,60,82,57,87,90,1,Programming,Intermediate
+S160,Deep Learning,51,97,59,145,59,27,AI,Intermediate
+S160,Machine Learning,64,50,62,77,60,6,AI,Intermediate
+S160,Tableau,90,57,69,185,91,18,Visualization,Advanced
+S160,Power BI,74,42,89,68,54,12,Visualization,Intermediate
+S160,Cloud Computing,42,90,66,121,76,28,Cloud,Beginner
+S161,NLP,70,40,64,198,92,19,AI,Intermediate
+S161,Excel,98,80,91,50,72,8,Visualization,Advanced
+S161,Cyber Security,66,99,89,114,81,20,Security,Intermediate
+S161,Git,65,78,64,116,71,30,Tools,Intermediate
+S161,Java,99,79,66,141,94,23,Programming,Advanced
+S161,Data Analysis,89,90,72,89,64,16,Analytics,Advanced
+S161,Power BI,90,77,59,86,64,15,Visualization,Advanced
+S161,Statistics,66,97,73,48,60,6,Analytics,Intermediate
+S161,SQL,61,83,58,168,70,5,Database,Intermediate
+S161,Data Structures,72,96,90,151,72,21,Programming,Intermediate
+S162,Git,75,76,100,144,96,26,Tools,Advanced
+S162,C++,72,66,51,126,58,18,Programming,Intermediate
+S162,Excel,92,40,88,165,76,4,Visualization,Advanced
+S162,Linux,68,58,77,71,87,7,Tools,Intermediate
+S162,Web Development,41,94,84,96,54,23,Development,Beginner
+S162,Machine Learning,98,48,83,160,64,28,AI,Advanced
+S162,Computer Vision,97,63,61,68,53,20,AI,Advanced
+S162,Tableau,94,72,56,188,100,14,Visualization,Advanced
+S162,NLP,69,65,93,181,99,9,AI,Intermediate
+S162,Power BI,61,74,61,111,53,9,Visualization,Intermediate
+S163,Web Development,59,52,50,193,84,22,Development,Intermediate
+S163,C++,67,52,77,39,63,24,Programming,Intermediate
+S163,Algorithms,74,48,77,31,91,18,Programming,Intermediate
+S163,Computer Vision,65,68,66,186,74,4,AI,Intermediate
+S163,Machine Learning,65,63,68,194,94,4,AI,Intermediate
+S163,Git,40,78,97,54,80,7,Tools,Beginner
+S163,Cloud Computing,72,60,84,128,82,12,Cloud,Intermediate
+S163,Deep Learning,70,91,57,37,79,1,AI,Intermediate
+S163,Java,89,75,98,107,91,30,Programming,Advanced
+S163,Statistics,74,69,74,183,97,2,Analytics,Intermediate
+S164,Python,94,44,58,84,74,18,Programming,Advanced
+S164,Cloud Computing,57,59,75,131,67,21,Cloud,Intermediate
+S164,Statistics,62,61,57,95,95,20,Analytics,Intermediate
+S164,Cyber Security,55,72,91,164,57,8,Security,Intermediate
+S164,Git,50,81,98,94,89,10,Tools,Intermediate
+S164,Deep Learning,95,55,92,176,57,23,AI,Advanced
+S164,Data Structures,75,48,98,129,99,30,Programming,Advanced
+S164,Web Development,63,93,81,68,74,24,Development,Intermediate
+S164,SQL,80,48,78,186,80,29,Database,Advanced
+S164,Tableau,70,58,89,75,96,22,Visualization,Intermediate
+S165,Git,94,45,90,59,50,27,Tools,Advanced
+S165,Cyber Security,81,80,83,171,58,12,Security,Advanced
+S165,Statistics,47,95,80,111,55,28,Analytics,Beginner
+S165,Algorithms,52,98,100,27,56,22,Programming,Intermediate
+S165,Data Structures,63,77,90,128,62,18,Programming,Intermediate
+S165,Machine Learning,41,53,64,91,99,29,AI,Beginner
+S165,Data Analysis,91,85,91,124,74,10,Analytics,Advanced
+S165,Computer Vision,69,80,99,200,87,1,AI,Intermediate
+S165,Linux,45,87,91,90,51,9,Tools,Beginner
+S165,C++,87,86,60,190,99,10,Programming,Advanced
+S166,Deep Learning,45,65,50,99,75,3,AI,Beginner
+S166,Linux,90,92,67,135,96,8,Tools,Advanced
+S166,Power BI,63,62,63,19,99,7,Visualization,Intermediate
+S166,Cloud Computing,53,89,64,47,89,14,Cloud,Intermediate
+S166,C++,52,84,63,32,82,20,Programming,Intermediate
+S166,Data Structures,92,90,75,67,72,5,Programming,Advanced
+S166,Machine Learning,77,65,83,51,79,17,AI,Advanced
+S166,SQL,53,68,100,146,55,14,Database,Intermediate
+S166,Data Analysis,73,61,91,148,83,5,Analytics,Intermediate
+S166,Java,59,80,94,179,98,8,Programming,Intermediate
+S167,Cloud Computing,94,64,70,197,93,25,Cloud,Advanced
+S167,Statistics,89,59,91,181,50,3,Analytics,Advanced
+S167,Data Structures,70,77,50,192,92,7,Programming,Intermediate
+S167,Python,92,94,88,151,63,6,Programming,Advanced
+S167,Deep Learning,84,68,75,155,77,10,AI,Advanced
+S167,Power BI,96,49,55,70,69,12,Visualization,Advanced
+S167,Java,81,94,92,97,56,6,Programming,Advanced
+S167,Computer Vision,87,64,98,134,58,17,AI,Advanced
+S167,Cyber Security,97,54,74,140,53,24,Security,Advanced
+S167,Web Development,63,46,64,90,76,11,Development,Intermediate
+S168,C++,95,90,69,143,87,24,Programming,Advanced
+S168,Tableau,96,55,52,157,93,30,Visualization,Advanced
+S168,Algorithms,67,83,77,147,98,30,Programming,Intermediate
+S168,Power BI,75,92,63,136,61,8,Visualization,Advanced
+S168,Computer Vision,70,48,86,145,76,26,AI,Intermediate
+S168,Python,81,58,94,158,69,4,Programming,Advanced
+S168,Deep Learning,55,51,75,136,80,2,AI,Intermediate
+S168,Java,88,49,69,10,64,14,Programming,Advanced
+S168,Data Analysis,93,90,70,158,57,5,Analytics,Advanced
+S168,Machine Learning,84,42,76,146,53,25,AI,Advanced
+S169,Git,57,53,60,99,95,10,Tools,Intermediate
+S169,Web Development,80,58,66,32,77,6,Development,Advanced
+S169,Machine Learning,43,99,94,45,54,2,AI,Beginner
+S169,Deep Learning,68,93,53,24,81,17,AI,Intermediate
+S169,Linux,77,80,89,96,54,7,Tools,Advanced
+S169,SQL,61,41,73,47,76,14,Database,Intermediate
+S169,Computer Vision,42,55,65,24,63,30,AI,Beginner
+S169,NLP,88,100,60,126,51,6,AI,Advanced
+S169,C++,85,85,96,35,84,27,Programming,Advanced
+S169,Java,95,44,93,82,86,4,Programming,Advanced
+S170,Excel,59,86,82,109,91,16,Visualization,Intermediate
+S170,Power BI,64,81,76,108,61,14,Visualization,Intermediate
+S170,Java,55,92,74,125,63,25,Programming,Intermediate
+S170,Linux,52,75,73,153,60,9,Tools,Intermediate
+S170,Cyber Security,43,73,53,191,51,23,Security,Beginner
+S170,Machine Learning,65,55,68,59,80,24,AI,Intermediate
+S170,NLP,77,55,89,198,61,22,AI,Advanced
+S170,Data Structures,89,85,65,74,57,16,Programming,Advanced
+S170,Algorithms,78,45,77,139,61,16,Programming,Advanced
+S170,Deep Learning,99,66,88,191,73,20,AI,Advanced
+S171,Data Analysis,85,78,79,22,62,6,Analytics,Advanced
+S171,C++,83,88,52,119,61,11,Programming,Advanced
+S171,Java,88,73,84,92,98,11,Programming,Advanced
+S171,Web Development,88,86,84,20,89,6,Development,Advanced
+S171,Cyber Security,93,63,56,197,51,19,Security,Advanced
+S171,Power BI,55,97,78,156,83,25,Visualization,Intermediate
+S171,Cloud Computing,95,44,86,89,93,24,Cloud,Advanced
+S171,Tableau,44,43,95,144,56,27,Visualization,Beginner
+S171,SQL,70,69,57,178,77,3,Database,Intermediate
+S171,Deep Learning,62,42,71,16,71,17,AI,Intermediate
+S172,Deep Learning,40,89,86,21,95,25,AI,Beginner
+S172,Data Structures,91,42,96,186,90,30,Programming,Advanced
+S172,Excel,42,41,75,117,81,26,Visualization,Beginner
+S172,Git,87,81,64,98,79,7,Tools,Advanced
+S172,Machine Learning,97,59,54,119,62,4,AI,Advanced
+S172,NLP,61,55,80,177,96,5,AI,Intermediate
+S172,Tableau,63,95,99,44,94,12,Visualization,Intermediate
+S172,SQL,43,92,94,51,67,27,Database,Beginner
+S172,Computer Vision,91,94,99,45,83,6,AI,Advanced
+S172,Statistics,68,78,99,181,58,12,Analytics,Intermediate
+S173,Data Analysis,86,63,90,110,78,17,Analytics,Advanced
+S173,Cloud Computing,96,67,57,184,61,7,Cloud,Advanced
+S173,Cyber Security,64,78,85,198,91,4,Security,Intermediate
+S173,Algorithms,69,84,73,164,75,23,Programming,Intermediate
+S173,Statistics,57,55,93,99,83,22,Analytics,Intermediate
+S173,Excel,84,90,79,175,79,28,Visualization,Advanced
+S173,Linux,99,45,86,158,69,4,Tools,Advanced
+S173,NLP,58,65,100,13,91,6,AI,Intermediate
+S173,Machine Learning,75,83,52,103,89,6,AI,Advanced
+S173,Web Development,95,55,62,124,96,11,Development,Advanced
+S174,Data Structures,63,56,86,177,77,14,Programming,Intermediate
+S174,Data Analysis,78,80,54,103,57,5,Analytics,Advanced
+S174,Algorithms,86,85,76,58,72,17,Programming,Advanced
+S174,Computer Vision,69,49,86,94,83,17,AI,Intermediate
+S174,Statistics,57,57,51,110,100,22,Analytics,Intermediate
+S174,NLP,79,52,99,196,92,4,AI,Advanced
+S174,Cyber Security,93,67,91,162,65,13,Security,Advanced
+S174,Linux,54,96,66,56,69,11,Tools,Intermediate
+S174,Web Development,47,80,54,144,51,7,Development,Beginner
+S174,Git,96,69,84,40,81,8,Tools,Advanced
+S175,C++,94,86,79,199,72,5,Programming,Advanced
+S175,Deep Learning,76,86,96,58,82,8,AI,Advanced
+S175,Excel,54,71,64,174,80,19,Visualization,Intermediate
+S175,Computer Vision,67,79,62,84,77,16,AI,Intermediate
+S175,Data Structures,76,42,62,116,77,6,Programming,Advanced
+S175,NLP,92,90,58,34,50,22,AI,Advanced
+S175,Statistics,72,85,57,199,99,5,Analytics,Intermediate
+S175,Data Analysis,69,57,64,73,94,3,Analytics,Intermediate
+S175,Algorithms,43,43,67,17,84,4,Programming,Beginner
+S175,Power BI,45,86,88,139,85,3,Visualization,Beginner
+S176,Deep Learning,49,91,87,47,86,18,AI,Beginner
+S176,Java,44,42,54,22,90,7,Programming,Beginner
+S176,Power BI,64,96,56,28,51,14,Visualization,Intermediate
+S176,Linux,71,87,63,59,56,6,Tools,Intermediate
+S176,Algorithms,95,89,65,61,94,21,Programming,Advanced
+S176,Tableau,42,84,60,90,94,7,Visualization,Beginner
+S176,Data Structures,85,41,93,39,87,17,Programming,Advanced
+S176,Cyber Security,53,80,55,30,66,17,Security,Intermediate
+S176,Statistics,88,97,77,199,89,27,Analytics,Advanced
+S176,Computer Vision,67,42,87,48,80,10,AI,Intermediate
+S177,Git,57,97,50,62,53,23,Tools,Intermediate
+S177,Linux,54,90,92,180,59,13,Tools,Intermediate
+S177,Machine Learning,88,61,71,177,88,9,AI,Advanced
+S177,Data Analysis,55,90,82,198,68,10,Analytics,Intermediate
+S177,Cloud Computing,57,76,72,91,74,28,Cloud,Intermediate
+S177,Statistics,44,83,88,126,63,21,Analytics,Beginner
+S177,C++,81,84,99,22,90,15,Programming,Advanced
+S177,Algorithms,41,62,88,51,58,11,Programming,Beginner
+S177,Python,76,57,57,140,60,3,Programming,Advanced
+S177,SQL,80,56,58,38,74,7,Database,Advanced
+S178,Algorithms,85,78,53,129,56,22,Programming,Advanced
+S178,Power BI,93,42,66,200,100,5,Visualization,Advanced
+S178,Excel,63,100,51,153,98,30,Visualization,Intermediate
+S178,Data Structures,83,76,52,145,95,7,Programming,Advanced
+S178,Web Development,78,74,95,39,66,25,Development,Advanced
+S178,Machine Learning,66,89,67,194,87,25,AI,Intermediate
+S178,SQL,69,88,54,88,95,15,Database,Intermediate
+S178,Computer Vision,72,47,95,13,73,12,AI,Intermediate
+S178,Statistics,87,42,89,130,87,18,Analytics,Advanced
+S178,NLP,93,45,84,172,65,4,AI,Advanced
+S179,NLP,87,68,99,42,75,25,AI,Advanced
+S179,Python,41,96,70,143,58,25,Programming,Beginner
+S179,Git,82,85,90,24,59,29,Tools,Advanced
+S179,Excel,68,67,94,84,89,4,Visualization,Intermediate
+S179,Tableau,59,53,57,200,63,6,Visualization,Intermediate
+S179,Deep Learning,83,55,84,65,84,11,AI,Advanced
+S179,Computer Vision,73,66,91,200,68,9,AI,Intermediate
+S179,Machine Learning,67,50,99,92,60,23,AI,Intermediate
+S179,C++,65,82,71,31,53,23,Programming,Intermediate
+S179,Cyber Security,45,91,89,100,79,11,Security,Beginner
+S180,Python,89,82,98,172,57,14,Programming,Advanced
+S180,Cyber Security,86,75,99,166,73,18,Security,Advanced
+S180,NLP,46,58,88,112,53,23,AI,Beginner
+S180,C++,47,91,76,33,56,13,Programming,Beginner
+S180,Git,53,82,84,58,67,20,Tools,Intermediate
+S180,Web Development,69,99,65,188,57,15,Development,Intermediate
+S180,Power BI,64,99,93,94,75,24,Visualization,Intermediate
+S180,Statistics,69,78,56,38,72,6,Analytics,Intermediate
+S180,Cloud Computing,54,41,55,40,82,16,Cloud,Intermediate
+S180,Algorithms,70,88,55,126,54,26,Programming,Intermediate
+S181,Machine Learning,69,76,75,151,77,5,AI,Intermediate
+S181,Linux,89,45,77,137,56,3,Tools,Advanced
+S181,Tableau,63,41,81,192,99,29,Visualization,Intermediate
+S181,SQL,43,82,85,129,70,9,Database,Beginner
+S181,NLP,40,89,96,70,78,16,AI,Beginner
+S181,Python,59,77,89,157,73,12,Programming,Intermediate
+S181,Cyber Security,49,87,100,50,77,2,Security,Beginner
+S181,Data Analysis,67,97,70,179,74,12,Analytics,Intermediate
+S181,Cloud Computing,94,70,74,117,69,24,Cloud,Advanced
+S181,Computer Vision,83,40,100,143,76,8,AI,Advanced
+S182,Tableau,81,60,71,27,90,8,Visualization,Advanced
+S182,Data Analysis,70,95,58,57,83,3,Analytics,Intermediate
+S182,NLP,93,67,68,64,86,19,AI,Advanced
+S182,Algorithms,80,73,74,65,85,11,Programming,Advanced
+S182,SQL,75,53,66,150,62,16,Database,Advanced
+S182,C++,71,90,100,89,83,29,Programming,Intermediate
+S182,Java,84,47,53,156,83,22,Programming,Advanced
+S182,Computer Vision,42,70,52,73,88,17,AI,Beginner
+S182,Git,94,62,90,83,68,7,Tools,Advanced
+S182,Power BI,97,57,51,23,59,28,Visualization,Advanced
+S183,Data Structures,46,91,99,39,65,25,Programming,Beginner
+S183,Linux,57,65,58,99,74,6,Tools,Intermediate
+S183,Cloud Computing,59,92,82,179,93,25,Cloud,Intermediate
+S183,Excel,52,47,86,22,80,12,Visualization,Intermediate
+S183,Web Development,53,96,72,133,74,5,Development,Intermediate
+S183,Java,77,91,72,195,95,22,Programming,Advanced
+S183,SQL,69,40,67,141,51,6,Database,Intermediate
+S183,Power BI,48,72,58,123,54,8,Visualization,Beginner
+S183,C++,68,67,70,46,88,13,Programming,Intermediate
+S183,Cyber Security,46,77,92,10,67,19,Security,Beginner
+S184,Cloud Computing,87,49,64,55,93,5,Cloud,Advanced
+S184,Deep Learning,72,96,67,70,83,25,AI,Intermediate
+S184,Algorithms,51,99,97,186,96,29,Programming,Intermediate
+S184,Computer Vision,77,67,50,179,53,30,AI,Advanced
+S184,Power BI,42,64,90,66,83,9,Visualization,Beginner
+S184,Statistics,94,100,59,44,71,13,Analytics,Advanced
+S184,Git,73,47,72,45,94,30,Tools,Intermediate
+S184,SQL,83,73,66,97,90,18,Database,Advanced
+S184,Cyber Security,71,43,70,170,71,25,Security,Intermediate
+S184,Linux,62,56,74,174,77,2,Tools,Intermediate
+S185,Machine Learning,91,64,98,47,62,8,AI,Advanced
+S185,Tableau,76,72,85,161,88,18,Visualization,Advanced
+S185,Cloud Computing,65,93,89,165,74,22,Cloud,Intermediate
+S185,Python,69,68,59,62,63,17,Programming,Intermediate
+S185,NLP,93,42,92,13,89,10,AI,Advanced
+S185,Git,78,55,61,62,52,7,Tools,Advanced
+S185,Linux,45,44,80,90,75,19,Tools,Beginner
+S185,Web Development,98,85,93,60,66,5,Development,Advanced
+S185,Java,93,81,59,160,95,20,Programming,Advanced
+S185,Computer Vision,61,65,98,165,69,12,AI,Intermediate
+S186,Cloud Computing,74,82,54,95,90,23,Cloud,Intermediate
+S186,Data Analysis,62,71,68,188,65,14,Analytics,Intermediate
+S186,Computer Vision,62,74,76,106,71,4,AI,Intermediate
+S186,Cyber Security,42,48,78,31,71,10,Security,Beginner
+S186,Deep Learning,63,90,74,142,94,12,AI,Intermediate
+S186,Machine Learning,82,95,68,23,50,14,AI,Advanced
+S186,Python,41,74,96,27,85,8,Programming,Beginner
+S186,C++,61,54,59,48,82,11,Programming,Intermediate
+S186,Linux,41,79,64,115,83,1,Tools,Beginner
+S186,NLP,80,64,100,191,94,9,AI,Advanced
+S187,Statistics,70,63,63,167,56,1,Analytics,Intermediate
+S187,Data Structures,84,46,93,131,89,1,Programming,Advanced
+S187,Deep Learning,66,94,82,164,78,3,AI,Intermediate
+S187,Tableau,91,75,73,161,71,8,Visualization,Advanced
+S187,SQL,98,95,73,60,72,7,Database,Advanced
+S187,Linux,97,87,69,200,64,9,Tools,Advanced
+S187,Java,52,85,67,46,61,1,Programming,Intermediate
+S187,Power BI,96,100,61,11,50,15,Visualization,Advanced
+S187,C++,52,49,60,110,99,18,Programming,Intermediate
+S187,NLP,90,61,98,22,70,6,AI,Advanced
+S188,Java,63,58,88,70,56,1,Programming,Intermediate
+S188,Data Structures,80,96,56,114,66,19,Programming,Advanced
+S188,Cloud Computing,91,63,56,38,82,26,Cloud,Advanced
+S188,Python,75,97,69,32,96,9,Programming,Advanced
+S188,Computer Vision,93,75,81,48,55,14,AI,Advanced
+S188,Tableau,94,66,57,200,74,30,Visualization,Advanced
+S188,SQL,77,69,60,100,53,18,Database,Advanced
+S188,C++,85,48,76,113,78,3,Programming,Advanced
+S188,Web Development,80,50,66,62,85,9,Development,Advanced
+S188,Algorithms,60,49,88,146,59,18,Programming,Intermediate
+S189,Python,45,55,52,105,62,23,Programming,Beginner
+S189,Machine Learning,99,97,54,78,94,4,AI,Advanced
+S189,Cyber Security,89,40,92,67,83,8,Security,Advanced
+S189,Git,68,95,55,147,92,30,Tools,Intermediate
+S189,Algorithms,53,87,86,48,96,25,Programming,Intermediate
+S189,SQL,96,43,83,93,62,30,Database,Advanced
+S189,Data Structures,82,81,65,140,64,20,Programming,Advanced
+S189,Excel,45,71,50,52,62,3,Visualization,Beginner
+S189,NLP,71,96,79,78,80,24,AI,Intermediate
+S189,Deep Learning,40,56,74,20,78,24,AI,Beginner
+S190,Data Analysis,44,67,56,44,94,27,Analytics,Beginner
+S190,Git,51,52,69,135,64,3,Tools,Intermediate
+S190,Excel,49,40,86,158,82,11,Visualization,Beginner
+S190,Computer Vision,69,99,53,135,88,10,AI,Intermediate
+S190,SQL,78,46,57,102,59,12,Database,Advanced
+S190,Power BI,52,92,70,128,91,9,Visualization,Intermediate
+S190,Machine Learning,67,71,58,154,69,25,AI,Intermediate
+S190,Linux,81,65,74,53,75,19,Tools,Advanced
+S190,Tableau,90,84,86,81,71,25,Visualization,Advanced
+S190,Deep Learning,99,67,71,198,74,10,AI,Advanced
+S191,Machine Learning,43,89,84,173,67,8,AI,Beginner
+S191,SQL,99,66,51,57,52,15,Database,Advanced
+S191,C++,70,42,69,52,56,3,Programming,Intermediate
+S191,Data Structures,87,81,86,15,83,18,Programming,Advanced
+S191,Excel,59,65,82,123,51,19,Visualization,Intermediate
+S191,Power BI,48,44,94,28,74,21,Visualization,Beginner
+S191,Cyber Security,87,71,67,55,96,4,Security,Advanced
+S191,NLP,62,99,98,155,81,25,AI,Intermediate
+S191,Deep Learning,40,40,89,73,100,23,AI,Beginner
+S191,Tableau,83,66,91,132,80,2,Visualization,Advanced
+S192,NLP,41,53,90,197,73,1,AI,Beginner
+S192,Excel,56,58,74,40,53,29,Visualization,Intermediate
+S192,Data Analysis,90,61,99,36,52,7,Analytics,Advanced
+S192,Data Structures,63,94,98,22,79,3,Programming,Intermediate
+S192,Statistics,86,56,69,196,89,2,Analytics,Advanced
+S192,Power BI,47,45,99,113,76,8,Visualization,Beginner
+S192,Python,68,82,53,184,82,19,Programming,Intermediate
+S192,Deep Learning,42,78,93,73,53,5,AI,Beginner
+S192,SQL,93,48,100,19,64,16,Database,Advanced
+S192,Computer Vision,53,67,53,34,77,13,AI,Intermediate
+S193,Git,52,93,65,40,61,15,Tools,Intermediate
+S193,Excel,74,86,77,110,92,23,Visualization,Intermediate
+S193,Power BI,50,83,71,114,54,23,Visualization,Intermediate
+S193,Python,45,46,59,56,86,14,Programming,Beginner
+S193,Algorithms,94,72,71,33,88,17,Programming,Advanced
+S193,C++,42,45,89,126,61,30,Programming,Beginner
+S193,Machine Learning,41,66,71,147,74,11,AI,Beginner
+S193,Cyber Security,63,49,61,80,82,4,Security,Intermediate
+S193,SQL,53,73,55,126,79,22,Database,Intermediate
+S193,Computer Vision,46,82,73,20,63,29,AI,Beginner
+S194,Machine Learning,69,44,94,28,61,13,AI,Intermediate
+S194,NLP,69,88,87,85,90,22,AI,Intermediate
+S194,Cloud Computing,43,44,64,104,82,15,Cloud,Beginner
+S194,Computer Vision,74,57,71,71,85,26,AI,Intermediate
+S194,Data Analysis,61,40,54,51,70,19,Analytics,Intermediate
+S194,Power BI,93,88,50,190,94,29,Visualization,Advanced
+S194,Data Structures,95,84,82,57,96,13,Programming,Advanced
+S194,Tableau,64,68,96,140,55,14,Visualization,Intermediate
+S194,Excel,40,88,55,193,96,27,Visualization,Beginner
+S194,Git,89,99,76,135,95,16,Tools,Advanced
+S195,Data Structures,55,97,92,126,53,22,Programming,Intermediate
+S195,Power BI,80,72,87,173,74,18,Visualization,Advanced
+S195,Machine Learning,80,60,63,88,69,6,AI,Advanced
+S195,Git,45,80,84,71,66,1,Tools,Beginner
+S195,SQL,44,84,63,166,66,12,Database,Beginner
+S195,Web Development,63,74,82,23,94,6,Development,Intermediate
+S195,NLP,97,88,77,82,95,27,AI,Advanced
+S195,Statistics,48,46,80,195,98,15,Analytics,Beginner
+S195,Deep Learning,47,71,84,131,78,14,AI,Beginner
+S195,Computer Vision,78,92,95,183,67,1,AI,Advanced
+S196,Data Structures,68,86,67,53,58,21,Programming,Intermediate
+S196,Power BI,93,43,100,80,59,23,Visualization,Advanced
+S196,Statistics,66,55,97,41,98,28,Analytics,Intermediate
+S196,Computer Vision,68,81,56,101,81,22,AI,Intermediate
+S196,C++,93,89,84,87,62,30,Programming,Advanced
+S196,Excel,54,71,96,25,51,27,Visualization,Intermediate
+S196,SQL,64,45,57,104,64,15,Database,Intermediate
+S196,NLP,53,100,98,139,97,29,AI,Intermediate
+S196,Web Development,40,45,66,29,53,6,Development,Beginner
+S196,Cloud Computing,93,44,86,18,80,15,Cloud,Advanced
+S197,SQL,76,87,62,90,70,16,Database,Advanced
+S197,Cyber Security,89,53,92,70,67,21,Security,Advanced
+S197,Computer Vision,68,71,92,87,84,20,AI,Intermediate
+S197,Machine Learning,78,97,88,199,59,29,AI,Advanced
+S197,Data Structures,67,52,97,98,68,8,Programming,Intermediate
+S197,Linux,41,71,84,192,68,25,Tools,Beginner
+S197,Deep Learning,85,65,94,106,90,8,AI,Advanced
+S197,Tableau,62,43,76,16,69,10,Visualization,Intermediate
+S197,Python,70,41,63,174,61,25,Programming,Intermediate
+S197,Power BI,44,68,100,123,97,3,Visualization,Beginner
+S198,Cloud Computing,98,48,68,121,93,25,Cloud,Advanced
+S198,Machine Learning,77,96,50,195,54,30,AI,Advanced
+S198,SQL,97,68,88,73,58,14,Database,Advanced
+S198,Python,69,80,97,39,81,27,Programming,Intermediate
+S198,Power BI,60,57,71,66,60,16,Visualization,Intermediate
+S198,Data Analysis,89,50,95,10,65,12,Analytics,Advanced
+S198,Statistics,41,92,97,30,87,29,Analytics,Beginner
+S198,Tableau,98,41,100,166,55,20,Visualization,Advanced
+S198,Cyber Security,75,90,89,100,64,14,Security,Advanced
+S198,Web Development,43,61,52,87,78,14,Development,Beginner
+S199,Data Analysis,81,61,88,166,96,28,Analytics,Advanced
+S199,Algorithms,46,62,82,169,68,16,Programming,Beginner
+S199,NLP,77,58,93,71,64,5,AI,Advanced
+S199,Machine Learning,81,57,64,180,82,16,AI,Advanced
+S199,Computer Vision,89,71,92,39,82,10,AI,Advanced
+S199,Cloud Computing,92,71,78,14,85,22,Cloud,Advanced
+S199,Git,59,47,65,200,53,23,Tools,Intermediate
+S199,Statistics,75,95,68,91,54,21,Analytics,Advanced
+S199,Power BI,70,60,60,174,52,10,Visualization,Intermediate
+S199,Cyber Security,52,59,52,172,70,11,Security,Intermediate
+S200,Deep Learning,91,42,65,87,60,1,AI,Advanced
+S200,Machine Learning,75,49,80,72,61,20,AI,Advanced
+S200,Linux,71,53,84,58,67,25,Tools,Intermediate
+S200,Cyber Security,72,52,97,26,86,6,Security,Intermediate
+S200,Web Development,95,79,62,83,91,9,Development,Advanced
+S200,Computer Vision,46,92,98,125,92,9,AI,Beginner
+S200,Excel,71,43,82,159,89,28,Visualization,Intermediate
+S200,Data Structures,68,64,79,124,65,21,Programming,Intermediate
+S200,NLP,55,77,88,162,53,18,AI,Intermediate
+S200,SQL,44,55,66,167,100,24,Database,Beginner
